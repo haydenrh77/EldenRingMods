@@ -1,0 +1,66 @@
+[2023-03-04 21:02:28.649] [modengine] [info] ModEngine version 2.0.0-preview3-d673e6000e50d5c559364b6276057f6bde09accb initializing for Elden Ring
+[2023-03-04 21:02:28.649] [modengine] [info] Local settings loaded: true, Global settings loaded: true
+[2023-03-04 21:02:28.649] [modengine] [info] Main thread ID: 41640
+[2023-03-04 21:02:28.651] [modengine] [info] Enabling extension base
+[2023-03-04 21:02:28.651] [modengine] [info] Enabled extension base
+[2023-03-04 21:02:28.651] [modengine] [info] Enabling extension mod_loader
+[2023-03-04 21:02:28.651] [modengine] [info] Installing mod location rangedRework
+[2023-03-04 21:02:28.651] [modengine] [info] Resolved mod path to D:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\ModLoader2\rangedRework
+[2023-03-04 21:02:28.652] [modengine] [info] Enabled extension mod_loader
+[2023-03-04 21:02:28.689] [modengine] [info] Applied 3 hooks
+[2023-03-04 21:02:28.691] [modengine] [info] Starting worker thread
+[2023-03-04 21:04:35.949] [modengine] [info] ModEngine version 2.0.0-preview3-d673e6000e50d5c559364b6276057f6bde09accb initializing for Elden Ring
+[2023-03-04 21:04:35.950] [modengine] [info] Local settings loaded: true, Global settings loaded: true
+[2023-03-04 21:04:35.950] [modengine] [info] Main thread ID: 21484
+[2023-03-04 21:04:35.951] [modengine] [info] Enabling extension base
+[2023-03-04 21:04:35.951] [modengine] [info] Enabled extension base
+[2023-03-04 21:04:35.951] [modengine] [info] Enabling extension mod_loader
+[2023-03-04 21:04:35.951] [modengine] [info] Installing mod location rangedRework
+[2023-03-04 21:04:35.951] [modengine] [info] Resolved mod path to D:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\ModLoader2\rangedRework
+[2023-03-04 21:04:35.951] [modengine] [info] Enabled extension mod_loader
+[2023-03-04 21:04:35.991] [modengine] [info] Applied 3 hooks
+[2023-03-04 21:04:35.993] [modengine] [info] Starting worker thread
+[2023-03-04 21:08:22.090] [modengine] [info] ModEngine version 2.0.0-preview3-d673e6000e50d5c559364b6276057f6bde09accb initializing for Elden Ring
+[2023-03-04 21:08:22.090] [modengine] [info] Local settings loaded: true, Global settings loaded: true
+[2023-03-04 21:08:22.090] [modengine] [info] Main thread ID: 45780
+[2023-03-04 21:08:22.091] [modengine] [info] Enabling extension base
+[2023-03-04 21:08:22.091] [modengine] [info] Enabled extension base
+[2023-03-04 21:08:22.091] [modengine] [info] Enabling extension mod_loader
+[2023-03-04 21:08:22.091] [modengine] [info] Installing mod location rangedRework
+[2023-03-04 21:08:22.091] [modengine] [info] Resolved mod path to D:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\ModLoader2\rangedRework
+[2023-03-04 21:08:22.091] [modengine] [info] Enabled extension mod_loader
+[2023-03-04 21:08:22.130] [modengine] [info] Applied 3 hooks
+[2023-03-04 21:08:22.131] [modengine] [info] Starting worker thread
+[2023-03-04 21:10:03.094] [modengine] [info] ModEngine version 2.0.0-preview3-d673e6000e50d5c559364b6276057f6bde09accb initializing for Elden Ring
+[2023-03-04 21:10:03.094] [modengine] [info] Local settings loaded: true, Global settings loaded: true
+[2023-03-04 21:10:03.094] [modengine] [info] Main thread ID: 53668
+[2023-03-04 21:10:03.095] [modengine] [info] Enabling extension base
+[2023-03-04 21:10:03.095] [modengine] [info] Enabled extension base
+[2023-03-04 21:10:03.096] [modengine] [info] Enabling extension mod_loader
+[2023-03-04 21:10:03.096] [modengine] [info] Installing mod location rangedRework
+[2023-03-04 21:10:03.096] [modengine] [info] Resolved mod path to D:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\ModLoader2\rangedRework
+[2023-03-04 21:10:03.096] [modengine] [info] Enabled extension mod_loader
+[2023-03-04 21:10:03.136] [modengine] [info] Applied 3 hooks
+[2023-03-04 21:10:03.138] [modengine] [info] Starting worker thread
+[2023-03-04 21:16:46.757] [modengine] [info] ModEngine version 2.0.0-preview3-d673e6000e50d5c559364b6276057f6bde09accb initializing for Elden Ring
+[2023-03-04 21:16:46.757] [modengine] [info] Local settings loaded: true, Global settings loaded: true
+[2023-03-04 21:16:46.757] [modengine] [info] Main thread ID: 19744
+[2023-03-04 21:16:46.759] [modengine] [info] Enabling extension base
+[2023-03-04 21:16:46.759] [modengine] [info] Enabled extension base
+[2023-03-04 21:16:46.759] [modengine] [info] Enabling extension mod_loader
+[2023-03-04 21:16:46.759] [modengine] [info] Installing mod location rangedRework
+[2023-03-04 21:16:46.759] [modengine] [info] Resolved mod path to D:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\ModLoader2\rangedRework
+[2023-03-04 21:16:46.759] [modengine] [info] Enabled extension mod_loader
+[2023-03-04 21:16:46.796] [modengine] [info] Applied 3 hooks
+[2023-03-04 21:16:46.798] [modengine] [info] Starting worker thread
+[2023-03-04 22:23:57.793] [modengine] [info] ModEngine version 2.0.0-preview3-d673e6000e50d5c559364b6276057f6bde09accb initializing for Elden Ring
+[2023-03-04 22:23:57.793] [modengine] [info] Local settings loaded: true, Global settings loaded: true
+[2023-03-04 22:23:57.793] [modengine] [info] Main thread ID: 10436
+[2023-03-04 22:23:57.795] [modengine] [info] Enabling extension base
+[2023-03-04 22:23:57.795] [modengine] [info] Enabled extension base
+[2023-03-04 22:23:57.795] [modengine] [info] Enabling extension mod_loader
+[2023-03-04 22:23:57.795] [modengine] [info] Installing mod location rangedRework
+[2023-03-04 22:23:57.795] [modengine] [info] Resolved mod path to D:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\ModLoader2\rangedRework
+[2023-03-04 22:23:57.795] [modengine] [info] Enabled extension mod_loader
+[2023-03-04 22:23:57.831] [modengine] [info] Applied 3 hooks
+[2023-03-04 22:23:57.832] [modengine] [info] Starting worker thread

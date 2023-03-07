@@ -1,0 +1,15 @@
+# DO NOT MODIFY THIS FILE!
+# AUTO-GENERATED
+# CONTENTS WILL BE AUTOMATICALLY OVERWRITTEN
+
+# Produced by Elden Ring Randomizer v0.6.1
+# <hash>719685a11a45249fd69be689a94ff3ff</hash>
+
+[modengine]
+debug = false
+[extension.mod_loader]
+enabled = true
+loose_params = false
+mods = [
+    { enabled = true, name = "randomizer", path = "D:\\Program Files (x86)\\Steam\\steamapps\\common\\ELDEN RING\\Game\\ModLoader2\\randomizer" },
+]

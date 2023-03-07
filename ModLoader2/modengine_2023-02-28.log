@@ -1,0 +1,33 @@
+[2023-02-28 20:34:01.778] [modengine] [info] ModEngine version 2.0.0-preview3-d673e6000e50d5c559364b6276057f6bde09accb initializing for Elden Ring
+[2023-02-28 20:34:01.778] [modengine] [info] Local settings loaded: true, Global settings loaded: true
+[2023-02-28 20:34:01.778] [modengine] [info] Main thread ID: 38880
+[2023-02-28 20:34:01.780] [modengine] [info] Enabling extension base
+[2023-02-28 20:34:01.780] [modengine] [info] Enabled extension base
+[2023-02-28 20:34:01.780] [modengine] [info] Enabling extension mod_loader
+[2023-02-28 20:34:01.780] [modengine] [info] Installing mod location randomizer
+[2023-02-28 20:34:01.780] [modengine] [info] Resolved mod path to D:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\ModLoader2\randomizer
+[2023-02-28 20:34:01.781] [modengine] [info] Enabled extension mod_loader
+[2023-02-28 20:34:01.818] [modengine] [info] Applied 3 hooks
+[2023-02-28 20:34:01.820] [modengine] [info] Starting worker thread
+[2023-02-28 20:49:05.834] [modengine] [info] ModEngine version 2.0.0-preview3-d673e6000e50d5c559364b6276057f6bde09accb initializing for Elden Ring
+[2023-02-28 20:49:05.835] [modengine] [info] Local settings loaded: true, Global settings loaded: true
+[2023-02-28 20:49:05.835] [modengine] [info] Main thread ID: 50872
+[2023-02-28 20:49:05.836] [modengine] [info] Enabling extension base
+[2023-02-28 20:49:05.836] [modengine] [info] Enabled extension base
+[2023-02-28 20:49:05.836] [modengine] [info] Enabling extension mod_loader
+[2023-02-28 20:49:05.836] [modengine] [info] Installing mod location randomizer
+[2023-02-28 20:49:05.836] [modengine] [info] Resolved mod path to D:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\ModLoader2\randomizer
+[2023-02-28 20:49:05.836] [modengine] [info] Enabled extension mod_loader
+[2023-02-28 20:49:05.874] [modengine] [info] Applied 3 hooks
+[2023-02-28 20:49:05.876] [modengine] [info] Starting worker thread
+[2023-02-28 21:23:23.954] [modengine] [info] ModEngine version 2.0.0-preview3-d673e6000e50d5c559364b6276057f6bde09accb initializing for Elden Ring
+[2023-02-28 21:23:23.954] [modengine] [info] Local settings loaded: true, Global settings loaded: true
+[2023-02-28 21:23:23.954] [modengine] [info] Main thread ID: 53168
+[2023-02-28 21:23:23.957] [modengine] [info] Enabling extension base
+[2023-02-28 21:23:23.957] [modengine] [info] Enabled extension base
+[2023-02-28 21:23:23.957] [modengine] [info] Enabling extension mod_loader
+[2023-02-28 21:23:23.957] [modengine] [info] Installing mod location randomizer
+[2023-02-28 21:23:23.957] [modengine] [info] Resolved mod path to D:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\ModLoader2\randomizer
+[2023-02-28 21:23:23.957] [modengine] [info] Enabled extension mod_loader
+[2023-02-28 21:23:23.995] [modengine] [info] Applied 3 hooks
+[2023-02-28 21:23:23.996] [modengine] [info] Starting worker thread

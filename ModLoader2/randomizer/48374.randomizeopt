@@ -1,0 +1,28 @@
+Game: ER
+Version: v0.6.1
+Options: bosshp earlylegacy editnames enemy item mats phasehp raceloc_health raceloc_shops racemode regularhp runes_end:7 scale v8 bias:0 seed:333794743 --preset Custom
+EnemyPreset: >+
+  Classes:
+    Basic: {}
+    Boss:
+      MergeParent: true
+      Pools:
+      - Weight: 1000
+        Pool: default
+    MinorBoss:
+      MergeParent: true
+    Miniboss:
+      MergeParent: true
+    NightMiniboss:
+      MergeParent: true
+    DragonMiniboss:
+      MergeParent: true
+    Evergaol:
+      MergeParent: true
+    Wildlife:
+      MergeParent: true
+    HostileNPC: {}
+    Scarab:
+      MergeParent: true
+  AdjustSource: []
+ItemPreset: 

@@ -1,0 +1,26 @@
+Classes:
+  Basic:
+    Pools:
+    - Weight: 1000
+      Pool: default
+  Boss:
+    MergeParent: true
+    Pools:
+    - Weight: 1000
+      Pool: default
+  MinorBoss:
+    MergeParent: true
+  Miniboss:
+    MergeParent: true
+  NightMiniboss:
+    MergeParent: true
+  DragonMiniboss:
+    MergeParent: true
+  Evergaol:
+    MergeParent: true
+  Wildlife:
+    NoRandom: true
+  HostileNPC: {}
+  Scarab:
+    MergeParent: true
+AdjustSource: []

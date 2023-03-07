@@ -1,0 +1,20 @@
+.updateButton {
+  background-color: #A9874F !important;
+  border: none;
+  color: white;
+  padding: 8px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px !important;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  font-weight: bold !important;
+}
+.update {
+	display: inline !important;
+}
+.barn {
+	display:inline !important;
+}

@@ -1,0 +1,1 @@
+powershell "start custom_launcher.bat -WindowStyle Hidden"
