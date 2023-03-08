@@ -18,5 +18,3 @@ echo %a%.%d%>version
 .\PortableGit\bin\git.exe add .
 .\PortableGit\bin\git.exe commit -m "%a%.%d%"
 .\PortableGit\bin\git.exe push -u origin main
-
-pause
