@@ -1,14 +1,21 @@
 del Game.zip
 
-powershell.exe -Command "Invoke-WebRequest -OutFile .\Game.zip https://www.dropbox.com/s/xrmqibvjxa9jnb8/Game.zip?dl=1"
+if not exist "PortableGit\" (
+	.\PortableGit-2.39.2-64-bit.7z.exe -o "PortableGit" -y
+	.\PortableGit\post-install.bat
+)
 
-powershell.exe -Command "Expand-Archive Game.zip -DestinationPath .\.temp"
+.\PortableGit\bin\git.exe pull
 
-xcopy /y .\.temp .\
+rem powershell.exe -Command "Invoke-WebRequest -OutFile .\Game.zip https://www.dropbox.com/s/xrmqibvjxa9jnb8/Game.zip?dl=1"
 
-del Game.zip
-del /s /q .\.temp
-@RD /S /Q ".\.temp"
+rem powershell.exe -Command "Expand-Archive Game.zip -DestinationPath .\.temp"
+
+rem xcopy /y .\.temp .\
+
+rem del Game.zip
+rem del /s /q .\.temp
+rem @RD /S /Q ".\.temp"
 
 set "file=complete.mp3"
 ( echo Set Sound = CreateObject("WMPlayer.OCX.7"^)
