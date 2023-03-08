@@ -14,7 +14,9 @@ if %d% gtr 9 (
 
 echo %a%.%d%>currentVersion
 echo %a%.%d%>version
+Set commit=%a%.%d%
+set /p commit=Commit: ?: 
 
 .\PortableGit\bin\git.exe add .
-.\PortableGit\bin\git.exe commit -m "%a%.%d%"
+.\PortableGit\bin\git.exe commit -m "%commit%"
 .\PortableGit\bin\git.exe push -u origin main
