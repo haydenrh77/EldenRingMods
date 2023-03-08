@@ -2,10 +2,13 @@ del Game.zip
 
 if not exist "PortableGit\" (
 	.\PortableGit-2.39.2-64-bit.7z.exe -o "PortableGit" -y
-	.\PortableGit\post-install.bat
+	.\PortableGit\bin\git.exe init .
+	.\PortableGit\bin\git.exe remote add origin https://github.com/haydenrh77/EldenRingMods.git
+	.\PortableGit\bin\git.exe clean  -d  -f .
+	.\PortableGit\bin\git.exe pull origin main
 )
 
-.\PortableGit\bin\git.exe pull
+.\PortableGit\bin\git.exe pull origin main
 
 rem powershell.exe -Command "Invoke-WebRequest -OutFile .\Game.zip https://www.dropbox.com/s/xrmqibvjxa9jnb8/Game.zip?dl=1"
 
