@@ -17,11 +17,11 @@ rem powershell.exe -Command "Invoke-WebRequest -OutFile .\Game.zip https://www.d
 
 rem powershell.exe -Command "Expand-Archive Game.zip -DestinationPath .\.temp"
 
-rem xcopy /y .\.temp .\
+xcopy /y .\.temp .\
 
-rem del Game.zip
-rem del /s /q .\.temp
-rem @RD /S /Q ".\.temp"
+del Game.zip
+del /s /q .\.temp
+@RD /S /Q ".\.temp"
 
 set "file=complete.mp3"
 ( echo Set Sound = CreateObject("WMPlayer.OCX.7"^)
@@ -33,4 +33,4 @@ set "file=complete.mp3"
   echo wscript.sleep (int(Sound.currentmedia.duration^)+1^)*1000) >sound.vbs
 start /min sound.vbs
 
-pause
+exit
