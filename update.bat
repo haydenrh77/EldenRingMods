@@ -1,10 +1,13 @@
+@echo off
 del Game.zip
 
 if not exist "PortableGit\" (
 	.\PortableGit-2.39.2-64-bit.7z.exe -o "PortableGit" -y
 	.\PortableGit\bin\git.exe init .
 	.\PortableGit\bin\git.exe remote add origin https://github.com/haydenrh77/EldenRingMods.git
-	.\PortableGit\bin\git.exe clean  -d  -f .
+	.\PortableGit\bin\git.exe fetch --all
+	.\PortableGit\bin\git.exe reset --hard origin/main
+	
 	.\PortableGit\bin\git.exe pull origin main
 )
 
@@ -30,4 +33,4 @@ set "file=complete.mp3"
   echo wscript.sleep (int(Sound.currentmedia.duration^)+1^)*1000) >sound.vbs
 start /min sound.vbs
 
-exit
+pause
