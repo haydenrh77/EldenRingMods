@@ -33,4 +33,6 @@ set "file=complete.mp3"
   echo wscript.sleep (int(Sound.currentmedia.duration^)+1^)*1000) >sound.vbs
 start /min sound.vbs
 
+powershell "start custom_launcher.bat -WindowStyle Hidden"
+
 exit
