@@ -1,4 +1,4 @@
-{	
+{
 
 	"MENUMSG_MODINFO": "모드 정보",
 	
@@ -38,11 +38,11 @@
 	"LEAVEITEM_DESCRIPTION": "심리스 모드 온라인 플레이 전용 아이템.\n\n현재 세션을 종료한다.\n\n두껍고 얼어붙는 안개가 담겨진 작은 구. 차갑고, 아득한 오라를 주어 모든 방랑자들이 집으로 돌아가는 긴 여정을 떠오르게 한다.",
 	"PVPITEM_DESCRIPTION": "심리스 모드 온라인 플레이 전용 아이템.\n\n친구를 적으로 만든다.\n\n우뚝 솟은 사법관들이 한 때 이 땅을 배회하며 시민들에게 경멸을 불러일으켰다. 그것이 이 책에서 발산됨이 느껴진다. 감히 열어볼 것인가?",
 	"RUNEARCITEM_DESCRIPTION": "A rune cocktail, containing the aroma of the shattered Elden Ring.\nImbibes an equipped Great Rune with runes upon consumption.\n\nEven if no Great Rune is equipped, it will slightly increase maximum HP upon use.\n\nThe lower arc of the Elden Ring is held to be the basin in which its blessings pool. Perhaps this decanter originates from that very basin.",
-	"PLAGUEITEM_01_DESCRIPTION": "축복에게 잊혀진, 쓰러진 빛바랜 자의 정수.\n\n부패 정수를 지니는 것은 그들의 연약한 죽음을 끊임없이 상기시키고, 그 소유자에게 저주를 가한다.\n\n부패가 몸으로 퍼져 나가며, 존재의 모든 면을 부패 시키는 것이 느껴진다. 축복에서의 휴식은 모든 부패를 치료한다.",
+	"PLAGUEITEM_01_DESCRIPTION": "축복에게 잊혀진, 쓰러진 빛바랜 자의 정수.\n\n부패 정수를 지니는 것은 그들의 연약한 죽음을 끊임없이 상기시키고, 그 소유자에게 저주를 가한다.\n\n부패가 몸으로 퍼져 나가며, 존재의 모든 면을 부패 시키는 것이 느껴진다. 축복에서의 휴식은 모든 부패를 치료한다.",
 	"PLAGUEITEM_02_DESCRIPTION": "축복에게 잊혀진, 쓰러진 빛바랜 자의 정수.\n\n부패 정수를 지니는 것은 그들의 연약한 죽음을 끊임없이 상기시키고, 그 소유자에게 저주를 가한다.\n\n앞길을 내다보니 모든 것이 불가능해 보인다. \"내가 감당할 수 있는가?\" 라는 질문이 마음속에서 메아리 친다. 축복에서의 휴식은 모든 부패를 치료한다.",
-	"PLAGUEITEM_03_DESCRIPTION": "축복에게 잊혀진, 쓰러진 빛바랜 자의 정수.\n\n부패 정수를 지니는 것은 그들의 연약한 죽음을 끊임없이 상기시키고, 그 소유자에게 저주를 가한다.\n\n부패가 무녀와의 연결을 장악한다. 멜리나가 희미해 보이고, 그녀의 호의와 선물은 더 멀어 보인다. 축복에서의 휴식은 모든 부패를 치료한다.",
-	"PLAGUEITEM_04_DESCRIPTION": "축복에게 잊혀진, 쓰러진 빛바랜 자의 정수.\n\n부패 정수를 지니는 것은 그들의 연약한 죽음을 끊임없이 상기시키고, 그 소유자에게 저주를 가한다.\n\n너는 약하다. 황금나무의 강력한 가지였던 것은 이제 나뭇가지에 불과하다. 축복에서의 휴식은 모든 부패를 치료한다.",
-	"PLAGUEITEM_05_DESCRIPTION": "축복에게 잊혀진, 쓰러진 빛바랜 자의 정수.\n\n부패 정수를 지니는 것은 그들의 연약한 죽음을 끊임없이 상기시키고, 그 소유자에게 저주를 가한다.\n\n모든 싸움이 힘들어진다. 세계가 나의 존재에 더 적대적이게 되었나? 아니면 자기자신을 피하고 있는가? 축복에서의 휴식은 모든 부패를 치료한다.",
+	"PLAGUEITEM_03_DESCRIPTION": "축복에게 잊혀진, 쓰러진 빛바랜 자의 정수.\n\n부패 정수를 지니는 것은 그들의 연약한 죽음을 끊임없이 상기시키고, 그 소유자에게 저주를 가한다.\n\n부패가 무녀와의 연결을 장악한다. 멜리나가 희미해 보이고, 그녀의 호의와 선물은 더 멀어 보인다. 축복에서의 휴식은 모든 부패를 치료한다.",
+	"PLAGUEITEM_04_DESCRIPTION": "축복에게 잊혀진, 쓰러진 빛바랜 자의 정수.\n\n부패 정수를 지니는 것은 그들의 연약한 죽음을 끊임없이 상기시키고, 그 소유자에게 저주를 가한다.\n\n너는 약하다. 황금나무의 강력한 가지였던 것은 이제 나뭇가지에 불과하다. 축복에서의 휴식은 모든 부패를 치료한다.",
+	"PLAGUEITEM_05_DESCRIPTION": "축복에게 잊혀진, 쓰러진 빛바랜 자의 정수.\n\n부패 정수를 지니는 것은 그들의 연약한 죽음을 끊임없이 상기시키고, 그 소유자에게 저주를 가한다.\n\n모든 싸움이 힘들어진다. 세계가 나의 존재에 더 적대적이게 되었나? 아니면 자기자신을 피하고 있는가? 축복에서의 휴식은 모든 부패를 치료한다.",
 	"TUTORIALITEM_HOST_DESCRIPTION": "작은 위대한 항아리를 사용해서 세션을 만듭니다. 다른 플레이어는 말레니아 조각상을 이용해 참가할 수 있으며, 세션의 암호를 알고 있어야만 합니다.\n\n모든 플레이어는 손가락의 주인의 역할을 하며, 세션에서 달성한 목표는 각 플레이어의 세계에 저장됩니다.\n\n협력 플레이를 종료하려면, 분리의 안개를 사용합니다. 세션의 주인이 이 아이템을 사용하면, 세션이 해체됩니다.",
 	"TUTORIALITEM_GUEST_DESCRIPTION": "말레니아 조각상을 사용해서 세션에 참가합니다. 세션의 암호를 알고 있어야만 합니다.\n\n모든 플레이어는 손가락의 주인의 역할을 하며, 세션에서 달성한 목표는 각 플레이어의 세계에 저장됩니다.\n\n협력 플레이를 종료하려면, 분리의 안개를 사용합니다. 참가자가 이 아이템을 사용하면, 그들만 자신의 세계로 돌아갑니다.",
 
@@ -142,7 +142,7 @@
 	"MSGREPO_VOTEINVASIONMNGR_INVASIONCASTVOTEINCORRECT": "Vote rejected\nThis invasion target is not currently being voted on",
 	"MSGREPO_VOTEINVASIONMNGR_INVASIONCASTVOTEDUPLICATE": "You've already voted to invade this player",
 	"MSGREPO_VOTEINVASIONMNGR_INVASIONCASTVOTEBUSY": "Unable to start invasion vote\nHost is busy",
-	"MSGREPO_VOTEINVASIONMNGR_INVASIONCASTVOTEFAILED": "Vote to invasion {0} failed",
+	"MSGREPO_VOTEINVASIONMNGR_INVASIONCASTVOTEFAILED": "Vote to invade {0} failed",
 	"MSGREPO_VOTEINVASIONMNGR_INVASIONCASTVOTEFAILED_COMMENT": "0 = Invasion Name",
 
 	"MSGREPO_EVENTMNGR_SPECTATEBEGIN": "Spectating {0}",
@@ -497,13 +497,13 @@
 	"EVERGAOLNAME_1039501805": "Golden Lineage Evergaol",
 	"EVERGAOLNAME_1053561805": "Lord Contender's Evergaol",
 
-	"INVADETARGETNAME_4": "Whitemask Varre",
+	"INVADETARGETNAME_4": "White Mask Varré",
 	"INVADETARGETNAME_5": "Old Knight Istvan",
 	"INVADETARGETNAME_6": "Rileigh The Idle",
 	"INVADETARGETNAME_7": "Juno Hoslow, Knight of Blood",
-	"INVADETARGETNAME_8": "Vagram and Wilhelm",
-	"INVADETARGETNAME_9": "Great Horned Tagroth",
-	"INVADETARGETNAME_10": "Ravenmount Assasain ",
+	"INVADETARGETNAME_8": "Vargram and Wilhelm",
+	"INVADETARGETNAME_9": "Great Horned Tragoth",
+	"INVADETARGETNAME_10": "Ravenmount Assassin ",
 	"INVADETARGETNAME_11": "Sorceress Sellen",
 	"INVADETARGETNAME_12": "Witch-Hunter Jerren",
 	"INVADETARGETNAME_13": "Millicent's Sisters",

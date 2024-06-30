@@ -22,10 +22,10 @@ echo Select an option:
 for /F "delims=" %%a in ('mshta.exe "%~F0"') do set "HTAreply=%%a"
 echo End of HTA window, reply: "%HTAreply%"
 if %HTAreply%==1 (start "" cmd /c ".\start_protected_game.exe")
-if %HTAreply%==2 (xcopy "mods_ranged_rework\" "mods\")
-if %HTAreply%==2 (cd ModLoader2)
-if %HTAreply%==2 (xcopy ".\config_eldenring_ranged_rework.toml" ".\config_eldenring.toml*")
-if %HTAreply%==2 (start cmd /k Call ".\launchmod_eldenring.bat")
+rem if %HTAreply%==2 (xcopy "mods_ranged_rework\" "mods\")
+rem if %HTAreply%==2 (cd ModLoader2)
+rem if %HTAreply%==2 (xcopy ".\config_eldenring_ranged_rework.toml" ".\config_eldenring.toml*")
+if %HTAreply%==2 (start "" cmd /c ".\ersc_launcher.exe")
 if %HTAreply%==3 (xcopy "mods_randomizer\" "mods\")
 if %HTAreply%==3 (cd ModLoader2)
 if %HTAreply%==3 (xcopy ".\config_eldenring_randomizer.toml" ".\config_eldenring.toml*")
@@ -58,7 +58,7 @@ function closeHTA(reply){
 <BODY style="background-color:#A7B8D9;">
    <button class="button" onclick="closeHTA(1);">Unmodded</button>
    <button class="button" onclick="closeHTA(2);">Seamless Coop Only</button>
-   <button class="button" onclick="closeHTA(3);">Randomized Seamless Coop</button>
+   <button class="button" onclick="closeHTA(3);" disabled>Randomized Seamless Coop</button>
    <button class="updateButton" onclick="closeHTA(4);">Update</button>
    <button class="button" onclick="closeHTA(5);">Exit</button>
    <br><br><h3 class=update>NEW UPDATE AVAILABLE!</h3>
