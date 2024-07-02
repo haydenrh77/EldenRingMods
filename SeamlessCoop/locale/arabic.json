@@ -79,6 +79,7 @@
 	"YKNX2_NODLC": "يجب أن تمتلك ظل شجرة الإرد للانضمام إلى هذه الجلسة",
 	"YKNX2_INVASIONRADIUSERROR": "غير قادر على الغزو\nيجب أن يكون جميع المتجولين حاضرين",
 	"YKNX2_INVASIONSTATEERROR": "غير قادر على الغزو\nالعلامة لا تستجب إليك",
+	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} قد فعل: {}",
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "لقد طردتك قوة النعمة من الساحة",
 
 	"CREDITS": "LukeYui"

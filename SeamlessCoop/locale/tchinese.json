@@ -79,6 +79,7 @@
 	"YKNX2_EVERGAOLRADIUSERROR": "Failed to enter evergaol\nAll Wanderers must enter together",
 	"YKNX2_INVASIONRADIUSERROR": "Unable to invade\nAll Wanderers must be present",
 	"YKNX2_INVASIONSTATEERROR": "Unable to invade\nThe sign does not respond to you",
+	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} has activated: {}",
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "The power of grace expelled you from the arena",
 
 	"CREDITS": "Flygon, the Templar"

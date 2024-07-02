@@ -79,6 +79,7 @@
 	"YKNX2_EVERGAOLRADIUSERROR": "Fallo al entrar a la cárcel eterna\nTodos los errantes deben entrar a la vez",
 	"YKNX2_INVASIONRADIUSERROR": "Incapaz de invadir\nTodos los errantes deben estar presentes",
 	"YKNX2_INVASIONSTATEERROR": "Incapaz de invadir\nLa señal no responde ante tí.",
+	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} ha activado: {}",
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "El poder de la gracia te ha expulsado de la arena",
 
 	"CREDITS": "LukeYui, Algxen, Salafis, Umi, Prolusse & Kraka"

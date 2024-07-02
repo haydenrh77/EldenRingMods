@@ -79,6 +79,7 @@
 "YKNX2_EVERGAOLRADIUSERROR": "Nem sikerült belépni a végbörtönbe\nMinden Vándornak együtt kell belépnie",
 "YKNX2_INVASIONRADIUSERROR": "Nem lehet megszállni\nMinden Vándornak jelen kell lennie",
 "YKNX2_INVASIONSTATEERROR": "Nem lehet megszállni\nA jel nem válaszol neked",
+"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} beaktiválta ezt: {}",
 "ACTIONBUTTON_BOSSROOMKICKOUT": "A kegy ereje kitaszított téged az arénából",
 
 "CREDITS": "The_Reaper_CooL - https://trc-playground.hu"

@@ -79,6 +79,7 @@
 	"YKNX2_EVERGAOLRADIUSERROR": "ล้มเหลวในการเข้าไปในคุกนิรันดร์\nผู้เร่ร่อนทุกคนจะต้องเข้าไปพร้อมกัน",
 	"YKNX2_INVASIONRADIUSERROR": "ไม่สามารถบุกรุกได้\nผู้เร่ร่อนทุกคนจะต้องอยู่ด้วย",
 	"YKNX2_INVASIONSTATEERROR": "ไม่สามารถบุกรุกได้\nสัญลักษณ์ไม่ตอบสนองต่อคุณ",
+	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} has activated: {}",
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "พลังแห่งพรได้ขับไล่คุณออกจากสนามต่อสู้",
 
 	"CREDITS": "LukeYui, BazAKu"

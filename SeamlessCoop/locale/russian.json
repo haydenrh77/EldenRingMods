@@ -79,6 +79,7 @@
 	"YKNX2_EVERGAOLRADIUSERROR": "Неудача входа в узилище\nВсе странники должны войти вместе",
 	"YKNX2_INVASIONRADIUSERROR": "Неудача вторжения\nВсе странники должны присутствовать",
 	"YKNX2_INVASIONSTATEERROR": "Неудача вторжения\nЗнак вам не отвечает",
+	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} has activated: {}",
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "Сила благодати изгнала вас с арены",
 
 	"CREDITS": "LukeYui, BLADEKuzia, CanCan and Hobotam"

@@ -1,7 +1,7 @@
 {
 	"GENERIC_INVALID": "Mitään ei tapahdu...",
 
-	"MODGOODSNAME_HOSTINGITEM": "Pieni Mahtava Ruukku",
+	"MODGOODSNAME_HOSTINGITEM": "Pieni Ruukku",
 	"MODGOODSNAME_JOININGITEM": "Malenian Esikuva",
 	"MODGOODSNAME_BREAKINITEM": "Haastajan Piikki",
 	"MODGOODSNAME_LEAVINGITEM": "Erotussumu",
@@ -75,11 +75,12 @@
 	"YKNX2_PLAYERDISCONNECT": "{} lähti",
 
 	"YKNX2_STATUS": "{}",
-	"YKNX2_EVERGAOLRADIUSERROR": "Failed to enter evergaol\nAll Wanderers must enter together",
-	"YKNX2_NODLC": "You must own Shadow of the Erdtree to join this session",
-	"YKNX2_INVASIONRADIUSERROR": "Unable to invade\nAll Wanderers must be present",
-	"YKNX2_INVASIONSTATEERROR": "Unable to invade\nThe sign does not respond to you",
-	"ACTIONBUTTON_BOSSROOMKICKOUT": "The power of grace expelled you from the arena",
+	"YKNX2_EVERGAOLRADIUSERROR": "Epäonnistui yrittäessä mennä toispuoleiseen\nKaikki vaeltajat pitää mennä yhdessä toispuoleiseen",
+	"YKNX2_NODLC": "Sinun pitää omistaa Shadow of the Erdtree Lisäosa, että pystyt liittyä",
+	"YKNX2_INVASIONRADIUSERROR": "Epäonnistui yrittäessä valloittaa\nKaikki vaeltajat pitää olla paikalla/yhdessä",
+	"YKNX2_INVASIONSTATEERROR": "Epäonnistui yrittäessä valloittaa\nMerkki ei vastaa sinulle",
+	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} Aktivoi: {}",
+	"ACTIONBUTTON_BOSSROOMKICKOUT": "Site of gracen voima veti sinut pois areenalta",
 
-	"CREDITS": "RayDit"
+	"CREDITS": "RayDit - YukeLui"
 }

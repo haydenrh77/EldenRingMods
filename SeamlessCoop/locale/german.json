@@ -79,6 +79,7 @@
 	"YKNX2_EVERGAOLRADIUSERROR": "Betreten des Evergaols ist fehlgeschlagen\nAlle Wanderer müssen gemeinsam eintreten",
 	"YKNX2_INVASIONRADIUSERROR": "Überfallen fehlgeschlagen\nAlle Wanderer müssen anwesend sein",
 	"YKNX2_INVASIONSTATEERROR": "Überfallen fehlgeschlagen\nDas Zeichen antwortet dir nicht",
+	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} aktiviert: {}",
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "Die Kraft der Gnade verbannt dich aus der Arena",
 
 	"CREDITS": "LukeYui + Kanpeki + Stinky Sage :3"

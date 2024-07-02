@@ -79,6 +79,7 @@
 	"YKNX2_NODLC": "Você precisa possuir a DLC Shadow of the Erdtree para se juntar a essa sessão",
 	"YKNX2_INVASIONRADIUSERROR": "Incapaz de invadir\nTodos viajantes precisam estar presentes",
 	"YKNX2_INVASIONSTATEERROR": "Incapaz de invadir\nO sinal não responde a você",
+	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} has activated: {}",
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "O poder da graça expulsou você da arena",
 
 	"CREDITS": "Leonardo Machado"

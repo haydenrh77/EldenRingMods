@@ -79,6 +79,7 @@
 	"YKNX2_EVERGAOLRADIUSERROR": "进入地下监牢失败\n所有流浪者必须一起进入",
 	"YKNX2_INVASIONRADIUSERROR": "入侵失败\n所有流浪者必须必须同时在场",
 	"YKNX2_INVASIONSTATEERROR": "入侵失败\n印记无响应",
+	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} has activated: {}",
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "你被赐福的力量驱逐出竞技场",
 
 	"CREDITS": "_connlost"

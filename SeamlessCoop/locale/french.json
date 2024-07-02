@@ -15,7 +15,7 @@
 
 	"MODGOODSINFO_HOSTINGITEM": "Ouvre votre monde aux vagabonds",
 	"MODGOODSINFO_JOININGITEM": "Rejoint un monde en tant que vagabond",
-	"MODGOODSINFO_BREAKINITEM": "Rejoint un monde en tant que vagabond malveillant",
+	"MODGOODSINFO_BREAKINITEM": "Envahit un monde en tant que vagabond malveillant",
 	"MODGOODSINFO_LEAVINGITEM": "Vous sépare des autres",
 	"MODGOODSINFO_GAMERULECHANGEITEM": "Change les règles entre les vagabonds",
 	"MODGOODSINFO_RUNEARCITEM": "Convertit les runes en pouvoir temporaire",
@@ -39,7 +39,7 @@
 
 	"OPTIONSELECT_OPENWORLD": "Ouvrir votre monde aux vagabonds",
 	"OPTIONSELECT_JOINWORLD": "Rejoindre un monde en tant que vagabond",
-	"OPTIONSELECT_BREAKINWORLD": "Envahir un monde en tant que vagabond",
+	"OPTIONSELECT_BREAKINWORLD": "Envahir un monde en tant que vagabond malveillant",
 	"OPTIONSELECT_LEAVEWORLD": "Quitter le groupe",
 	"OPTIONSELECT_LOCKWORLD": "Verrouiller le monde aux vagabonds",
 	"OPTIONSELECT_UNLOCKWORLD": "Déverrouiller le monde aux vagabons",
@@ -79,6 +79,7 @@
 	"YKNX2_NODLC": "Vous devez posséder Shadow of the Erdtree pour rejoindre cette session",
 	"YKNX2_INVASIONRADIUSERROR": "Impossible d'envahir\nTous les vagabonds doivent être présents",
 	"YKNX2_INVASIONSTATEERROR": "Impossible d'envahir\nLe signe ne vous réponds pas",
+	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} a activé le Site de grâce : {}",
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "Le pouvoir de la grâce vous a expulsé de l'arène",
 
 	"CREDITS": "LukeYui, traduit par Antoine Pélissier"
