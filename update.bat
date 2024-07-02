@@ -11,6 +11,8 @@ if not exist "PortableGit\" (
 	.\PortableGit\bin\git.exe pull origin main
 )
 
+.\PortableGit\bin\git.exe fetch --all
+.\PortableGit\bin\git.exe reset --hard origin/main
 .\PortableGit\bin\git.exe pull origin main
 
 rem powershell.exe -Command "Invoke-WebRequest -OutFile .\Game.zip https://www.dropbox.com/s/xrmqibvjxa9jnb8/Game.zip?dl=1"
