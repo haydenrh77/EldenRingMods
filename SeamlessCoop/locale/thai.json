@@ -71,6 +71,7 @@
 	"YKNX2_PLAYERDIED": "{} เสียชีวิตแล้ว",
 	"YKNX2_BREAKINPLAYERDIED": "ผู้เร่ร่อนมุ่งร้าย {} เสียชีวิตแล้ว",
 	"YKNX2_BREAKINPLAYERJOIN": "ถูกบุกรุกโดยผู้เร่ร่อนมุ่งร้าย {}",
+	"YKNX2_BREAKINPLAYERINTRODUCED": "Invaded world master {} as an evil spirit\nDefeat {} player(s)...",
 	"YKNX2_BOSSFIGHTSTART": "{} ได้เข้าถึงบอสแล้ว\nกำลังกลับสู่โลกเดิม...",
 	"YKNX2_BOSSFIGHTEND": "{} ได้พิชิตบอสลงแล้ว\nกำลังกลับสู่โลกเดิม...",
 	"YKNX2_PLAYERDISCONNECT": "{} หายไปแล้ว",
@@ -80,6 +81,7 @@
 	"YKNX2_INVASIONRADIUSERROR": "ไม่สามารถบุกรุกได้\nผู้เร่ร่อนทุกคนจะต้องอยู่ด้วย",
 	"YKNX2_INVASIONSTATEERROR": "ไม่สามารถบุกรุกได้\nสัญลักษณ์ไม่ตอบสนองต่อคุณ",
 	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} has activated: {}",
+	"YKNX2_PLAYERBONFIREWARP": "{} has warped to: {}",
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "พลังแห่งพรได้ขับไล่คุณออกจากสนามต่อสู้",
 
 	"CREDITS": "LukeYui, BazAKu"

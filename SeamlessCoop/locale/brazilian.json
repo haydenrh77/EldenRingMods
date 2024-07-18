@@ -70,6 +70,7 @@
 	"YKNX2_PLAYERDIED": "{} morreu",
 	"YKNX2_BREAKINPLAYERDIED": "Invasor maligno {} morreu",
 	"YKNX2_BREAKINPLAYERJOIN": "Invasor maligno {} invadiu!",
+	"YKNX2_BREAKINPLAYERINTRODUCED": "Invaded world master {} as an evil spirit\nDefeat {} player(s)...",
 	"YKNX2_BOSSFIGHTSTART": "{} encontrou um inimigo maior\nretornando ao seu próprio mundo...",
 	"YKNX2_BOSSFIGHTEND": "{} derrotou um inimigo maior\nretornando ao seu próprio mundo...",
 	"YKNX2_PLAYERDISCONNECT": "{} saiu",
@@ -79,7 +80,8 @@
 	"YKNX2_NODLC": "Você precisa possuir a DLC Shadow of the Erdtree para se juntar a essa sessão",
 	"YKNX2_INVASIONRADIUSERROR": "Incapaz de invadir\nTodos viajantes precisam estar presentes",
 	"YKNX2_INVASIONSTATEERROR": "Incapaz de invadir\nO sinal não responde a você",
-	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} has activated: {}",
+	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} ativou: {}",
+	"YKNX2_PLAYERBONFIREWARP": "{} has warped to: {}",
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "O poder da graça expulsou você da arena",
 
 	"CREDITS": "Leonardo Machado"

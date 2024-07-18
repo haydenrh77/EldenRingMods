@@ -70,6 +70,7 @@
 	"YKNX2_PLAYERDIED": "{} ha muerto",
 	"YKNX2_BREAKINPLAYERDIED": "Errante malévolo {} ha muerto",
 	"YKNX2_BREAKINPLAYERJOIN": "¡Invadido por el errante malévolo {}!",
+	"YKNX2_BREAKINPLAYERINTRODUCED": "Invaded world master {} as an evil spirit\nDefeat {} player(s)...",
 	"YKNX2_BOSSFIGHTSTART": "{} ha encontrado un enemigo importante\nregresando a tu propio mundo...",
 	"YKNX2_BOSSFIGHTEND": "{} ha derrotado un enemigo importante\nregresando a tu propio mundo...",
 	"YKNX2_PLAYERDISCONNECT": "{} se ha ido",
@@ -80,6 +81,7 @@
 	"YKNX2_INVASIONRADIUSERROR": "No es posible invadir\nTodos los errantes deben estar presentes.",
 	"YKNX2_INVASIONSTATEERROR": "No es posible invadir\nLa señal no responde ante ti.",
 	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} has activated: {}",
+	"YKNX2_PLAYERBONFIREWARP": "{} has warped to: {}",
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "El poder de la gracia te expulsó de la arena.",
 
 	"CREDITS": "LukeYui, Algxen, Umi, Salafis & Cody"

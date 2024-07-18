@@ -70,6 +70,7 @@
 	"YKNX2_PLAYERDIED": "{} 已死亡",
 	"YKNX2_BREAKINPLAYERDIED": "敌对的流浪者 {} 已死亡",
 	"YKNX2_BREAKINPLAYERJOIN": "遭到敌对的流浪者 {} 的入侵！",
+	"YKNX2_BREAKINPLAYERINTRODUCED": "Invaded world master {} as an evil spirit\nDefeat {} player(s)...",
 	"YKNX2_BOSSFIGHTSTART": "{} 遭遇主要头目\n返回自己的世界...",
 	"YKNX2_BOSSFIGHTEND": "主要头目已被 {} 击败\n返回自己的世界...",
 	"YKNX2_PLAYERDISCONNECT": "{} 已离开",
@@ -79,7 +80,8 @@
 	"YKNX2_EVERGAOLRADIUSERROR": "进入地下监牢失败\n所有流浪者必须一起进入",
 	"YKNX2_INVASIONRADIUSERROR": "入侵失败\n所有流浪者必须必须同时在场",
 	"YKNX2_INVASIONSTATEERROR": "入侵失败\n印记无响应",
-	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} has activated: {}",
+	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} 激活了: {}",
+	"YKNX2_PLAYERBONFIREWARP": "{} has warped to: {}",
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "你被赐福的力量驱逐出竞技场",
 
 	"CREDITS": "_connlost"

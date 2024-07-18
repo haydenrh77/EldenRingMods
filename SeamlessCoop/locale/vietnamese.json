@@ -70,6 +70,7 @@
 	"YKNX2_PLAYERDIED": "{} đã tử trận",
 	"YKNX2_BREAKINPLAYERDIED": "Kẻ Lang Thang Tàn Bạo {} đã tử trận",
 	"YKNX2_BREAKINPLAYERJOIN": "Kẻ Lang Thang Tàn Bạo {} đã xâm phạm!",
+	"YKNX2_BREAKINPLAYERINTRODUCED": "Invaded world master {} as an evil spirit\nDefeat {} player(s)...",
 	"YKNX2_BOSSFIGHTSTART": "{} đã gặp phải kẻ thù trọng trách\nquay trở về thế giời của mình...",
 	"YKNX2_BOSSFIGHTEND": "{} đã đánh bại kẻ thù trọng trách\nquay trở về thế giời của mình...",
 	"YKNX2_PLAYERDISCONNECT": "{} đã rời khỏi",
@@ -79,7 +80,8 @@
 	"YKNX2_EVERGAOLRADIUSERROR": "Failed to enter evergaol\nAll Wanderers must enter together",
 	"YKNX2_INVASIONRADIUSERROR": "Unable to invade\nAll Wanderers must be present",
 	"YKNX2_INVASIONSTATEERROR": "Unable to invade\nThe sign does not respond to you",
-	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} has activated: {}",
+	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} đã kích hoạt: {}",
+	"YKNX2_PLAYERBONFIREWARP": "{} has warped to: {}",
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "The power of grace expelled you from the arena",
 
 	"CREDITS": "LukeYui"

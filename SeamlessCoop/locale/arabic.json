@@ -70,6 +70,7 @@
 	"YKNX2_PLAYERDIED": "{} قد مات",
 	"YKNX2_BREAKINPLAYERDIED": "المتجول الخبيث {} قد مات",
 	"YKNX2_BREAKINPLAYERJOIN": "المتجول الخبيث {} قد غزا!",
+	"YKNX2_BREAKINPLAYERINTRODUCED": "Invaded world master {} as an evil spirit\nDefeat {} player(s)...",
 	"YKNX2_BOSSFIGHTSTART": "{} التقى بعدو رئيسي\nالعودة إلى عالمك الخاص...",
 	"YKNX2_BOSSFIGHTEND": "{} لقد هزم عدوا رئيسيا\nالعودة إلى عالمك الخاص...",
 	"YKNX2_PLAYERDISCONNECT": "{} قد غادر",
@@ -80,6 +81,7 @@
 	"YKNX2_INVASIONRADIUSERROR": "غير قادر على الغزو\nيجب أن يكون جميع المتجولين حاضرين",
 	"YKNX2_INVASIONSTATEERROR": "غير قادر على الغزو\nالعلامة لا تستجب إليك",
 	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} قد فعل: {}",
+	"YKNX2_PLAYERBONFIREWARP": "{} has warped to: {}",
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "لقد طردتك قوة النعمة من الساحة",
 
 	"CREDITS": "LukeYui"

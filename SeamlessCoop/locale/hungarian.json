@@ -70,6 +70,7 @@
 "YKNX2_PLAYERDIED": "{} meghalt",
 "YKNX2_BREAKINPLAYERDIED": "{} rosszindulatú vándor meghalt",
 "YKNX2_BREAKINPLAYERJOIN": "{} rosszindulatú vándor megszállta a világodat!",
+"YKNX2_BREAKINPLAYERINTRODUCED": "Invaded world master {} as an evil spirit\nDefeat {} player(s)...",
 "YKNX2_BOSSFIGHTSTART": "{} nagy ellenfélre lelt\nVisszatérsz a saját világodba...",
 "YKNX2_BOSSFIGHTEND": "{} legyőzött egy nagy ellenfelet\nVisszatérsz a saját világodba...",
 "YKNX2_PLAYERDISCONNECT": "{} elment",
@@ -80,6 +81,7 @@
 "YKNX2_INVASIONRADIUSERROR": "Nem lehet megszállni\nMinden Vándornak jelen kell lennie",
 "YKNX2_INVASIONSTATEERROR": "Nem lehet megszállni\nA jel nem válaszol neked",
 "YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} beaktiválta ezt: {}",
+"YKNX2_PLAYERBONFIREWARP": "{} has warped to: {}",
 "ACTIONBUTTON_BOSSROOMKICKOUT": "A kegy ereje kitaszított téged az arénából",
 
 "CREDITS": "The_Reaper_CooL - https://trc-playground.hu"

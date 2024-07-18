@@ -70,6 +70,7 @@
 	"YKNX2_PLAYERDIED": "{} kuoli",
 	"YKNX2_BREAKINPLAYERDIED": "Valloittaja {} kuoli",
 	"YKNX2_BREAKINPLAYERJOIN": "Valloittaja {} Valloittaa!",
+	"YKNX2_BREAKINPLAYERINTRODUCED": "Invaded world master {} as an evil spirit\nDefeat {} player(s)...",
 	"YKNX2_BOSSFIGHTSTART": "{} Meni moikkaamaan pahaa vihollista\nsiirrytään omaan maailmaan...",
 	"YKNX2_BOSSFIGHTEND": "{} Tappoi pahan vihollisen\nsiirrytään omaan maailmaan...",
 	"YKNX2_PLAYERDISCONNECT": "{} lähti",
@@ -80,6 +81,7 @@
 	"YKNX2_INVASIONRADIUSERROR": "Epäonnistui yrittäessä valloittaa\nKaikki vaeltajat pitää olla paikalla/yhdessä",
 	"YKNX2_INVASIONSTATEERROR": "Epäonnistui yrittäessä valloittaa\nMerkki ei vastaa sinulle",
 	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} Aktivoi: {}",
+	"YKNX2_PLAYERBONFIREWARP": "{} has warped to: {}",
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "Site of gracen voima veti sinut pois areenalta",
 
 	"CREDITS": "RayDit - YukeLui"

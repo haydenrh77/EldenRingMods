@@ -27,7 +27,7 @@
 
 	"MODGOODSDESC_HOSTINGITEM": "此道具用於無縫連線模式。\n\n並開放您的世界給流浪者所參加。\n\n大壺為了提升自身的價值而不斷的尋求有能力的戰士們。而示出這個徽章將會引來這些備具野心的戰士者們，但其餘的將由其定奪。",
 	"MODGOODSDESC_JOININGITEM": "此道具用於無縫連線模式。\n\n作為「流浪者」加入其他世界。\n\n瑪蓮妮雅作為戰無不勝的象徵受到許多戰士們的景仰， 而她的神像則保留了她身上所殘留的猩紅腐敗，進而吸引著那些不斷追求力量的戰士們",
-	"MODGOODSDESC_BREAKINITEM": "此道具用於競爭型遊戲模式。\n\n作為「敵對流浪者」入侵其他世界。\n\n在古老的儀式中，用於探索其他世界所使用的別針，將會使配戴者染上紅色。上頭的針刺則是預示著即將發生的凶兆。",
+	"MODGOODSDESC_BREAKINITEM": "此道具用於競爭型遊戲模式。\n\n作為「敵對流浪者」入侵其他世界。\n\n在古老的儀式中，用於探訪其他世界所使用的別針，並將會使配戴者染上紅色。上頭的針刺則是預示著那即將發生的凶兆。",
 	"MODGOODSDESC_LEAVINGITEM": "此道具用於無縫連線模式。\n\n斷開目前的連線狀態。\n\n裝有濃厚、且冰冷的濛霧小球，其中所散發的氣息十分地寒冷且悠遠，能使所有的流浪者們不禁地想起那遙遠的返鄉路途。",
 	"MODGOODSDESC_GAMERULECHANGEITEM": "此道具用於無縫連線模式。\n\n能使夥伴成為敵人。\n\n在過去，無上的法官們曾在這片土地上不斷地吸收著人們之間所產生的的輕蔑以及恨意。 而如今還能感受到那份氣息從法典中散發出來 - 您有這個勇氣去開啟它嗎？",
 	"MODGOODSDESC_RUNEARCITEM": "以盧恩所淬鍊而成的調製物，其中還存留著艾爾登法環碎片的些許氣息。\n飲用後，能讓裝備的大盧恩帶來恩惠\n在沒有裝備大盧恩的情況下使用，能稍微提升ＨＰ的上限。\n\n位於艾爾登法環最下方的盧恩彎弧被認為是所有恩惠的匯集處，或許，這瓶釀造物也就是出自於此吧。",
@@ -44,9 +44,9 @@
 	"OPTIONSELECT_LOCKWORLD": "鎖定此世界於其他流浪者們",
 	"OPTIONSELECT_UNLOCKWORLD": "開放此世界於其他流浪者們",
 	"OPTIONSELECT_SHOWYKNX2PASSWORD": "查看目前的連線配對暗號",
-	"OPTIONSELECT_TOGGLEPVP": "變更對戰模式",
-	"OPTIONSELECT_TOGGLEPVPTEAMS": "變更對戰隊伍",
-	"OPTIONSELECT_TOGGLEFRIENDLYFIRE": "變更友軍傷害",
+	"OPTIONSELECT_TOGGLEPVP": "切換對戰模式",
+	"OPTIONSELECT_TOGGLEPVPTEAMS": "切換對戰隊伍",
+	"OPTIONSELECT_TOGGLEFRIENDLYFIRE": "切換友軍傷害",
 	"OPTIONSELECT_GIVEEMBER": "是否消耗{}盧恩來啟用盧恩彎弧？",
 
 	"FE_PLAYERDEATH": "DEATH",
@@ -70,17 +70,19 @@
 	"YKNX2_PLAYERDIED": "{}已死亡。",
 	"YKNX2_BREAKINPLAYERDIED": "敵對流浪者{}已死亡。",
 	"YKNX2_BREAKINPLAYERJOIN": "被敵對流浪者{}入侵了！",
+	"YKNX2_BREAKINPLAYERINTRODUCED": "Invaded world master {} as an evil spirit\nDefeat {} player(s)...",
 	"YKNX2_BOSSFIGHTSTART": "{}已和區域頭目展開戰鬥，\n將返回原本的世界。",
 	"YKNX2_BOSSFIGHTEND": "{}已擊敗了區域頭目，\n將返回原本的世界。",
 	"YKNX2_PLAYERDISCONNECT": "{}已返回原本的世界。",
 
 	"YKNX2_STATUS": "{}",
-	"YKNX2_NODLC": "You must own Shadow of the Erdtree to join this session",
-	"YKNX2_EVERGAOLRADIUSERROR": "Failed to enter evergaol\nAll Wanderers must enter together",
-	"YKNX2_INVASIONRADIUSERROR": "Unable to invade\nAll Wanderers must be present",
-	"YKNX2_INVASIONSTATEERROR": "Unable to invade\nThe sign does not respond to you",
-	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} has activated: {}",
-	"ACTIONBUTTON_BOSSROOMKICKOUT": "The power of grace expelled you from the arena",
+	"YKNX2_NODLC": "您必須擁有「黃金樹幽影」內容才能加入此世界。",
+	"YKNX2_EVERGAOLRADIUSERROR": "無法進入封印監牢。\n所有的流浪者必須同時進入。",
+	"YKNX2_INVASIONRADIUSERROR": "無法入侵其他世界。\n所有的流浪者必須同時在場。",
+	"YKNX2_INVASIONSTATEERROR": "無法入侵其他世界。\n召喚記號沒有回應。",
+	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{}已發現賜福：{}",
+	"YKNX2_PLAYERBONFIREWARP": "{} has warped to: {}",
+	"ACTIONBUTTON_BOSSROOMKICKOUT": "賜福之力將您逐出了競技場。",
 
 	"CREDITS": "Flygon, the Templar"
 }

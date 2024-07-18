@@ -70,6 +70,7 @@
 	"YKNX2_PLAYERDIED": "{} погиб",
 	"YKNX2_BREAKINPLAYERDIED": "Мятежник {} погиб",
 	"YKNX2_BREAKINPLAYERJOIN": "Мятежник {} начинает вторжение!",
+	"YKNX2_BREAKINPLAYERINTRODUCED": "Invaded world master {} as an evil spirit\nDefeat {} player(s)...",
 	"YKNX2_BOSSFIGHTSTART": "{} встретил сильного противника\nВозвращение домой ...",
 	"YKNX2_BOSSFIGHTEND": "{} победил сильного противника\nВозвращение домой...",
 	"YKNX2_PLAYERDISCONNECT": "{} вышел",
@@ -79,7 +80,8 @@
 	"YKNX2_EVERGAOLRADIUSERROR": "Неудача входа в узилище\nВсе странники должны войти вместе",
 	"YKNX2_INVASIONRADIUSERROR": "Неудача вторжения\nВсе странники должны присутствовать",
 	"YKNX2_INVASIONSTATEERROR": "Неудача вторжения\nЗнак вам не отвечает",
-	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} has activated: {}",
+	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} активировал: {}",
+	"YKNX2_PLAYERBONFIREWARP": "{} has warped to: {}",
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "Сила благодати изгнала вас с арены",
 
 	"CREDITS": "LukeYui, BLADEKuzia, CanCan and Hobotam"

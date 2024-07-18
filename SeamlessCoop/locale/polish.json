@@ -70,6 +70,7 @@
 	"YKNX2_PLAYERDIED": "{} nie żyje",
 	"YKNX2_BREAKINPLAYERDIED": "Wrogi Wędrowiec {} nie żyje",
 	"YKNX2_BREAKINPLAYERJOIN": "Wrogi Wędrowiec {} dokonał inwazji!",
+	"YKNX2_BREAKINPLAYERINTRODUCED": "Invaded world master {} as an evil spirit\nDefeat {} player(s)...",
 	"YKNX2_BOSSFIGHTSTART": "{} spotkał potężnego przeciwnika\nwracanie do własnego świata...",
 	"YKNX2_BOSSFIGHTEND": "{} pokonał potężnego przeciwnika\nwracanie do własnego świata...",
 	"YKNX2_PLAYERDISCONNECT": "{} opuszcza grę",
@@ -80,6 +81,7 @@
 	"YKNX2_INVASIONRADIUSERROR": "Inwazja się nie udała\nWszyscy Wędrowcy muszą być obecni",
 	"YKNX2_INVASIONSTATEERROR": "Inwazja się nie udała\nZnak nie odpowiada",
 	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} aktywował/a: {}",
+	"YKNX2_PLAYERBONFIREWARP": "{} has warped to: {}",
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "Moc łaski wyrzuciła cię z areny",
 
 	"CREDITS": "BarteY , ✠Tommy✠ "

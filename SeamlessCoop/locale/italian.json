@@ -73,10 +73,12 @@
 	"YKNX2_INVASIONRADIUSERROR": "Invasione fallita\nTutti i viandanti devono essere presenti",
 	"YKNX2_INVASIONSTATEERROR": "Invasione fallita\nIl segno non risponde",
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "Il potere della grazia ti ha espulso dall'arena",
+	"YKNX2_PLAYERBONFIREWARP": "{} has warped to: {}",
 	
 	"YKNX2_PLAYERDIED": "{} è morto",
 	"YKNX2_BREAKINPLAYERDIED": "Il viandante nemico {} è morto",
 	"YKNX2_BREAKINPLAYERJOIN": "Sei stato invaso dal viandante nemico {}!",
+	"YKNX2_BREAKINPLAYERINTRODUCED": "Invaded world master {} as an evil spirit\nDefeat {} player(s)...",
 	"YKNX2_BOSSFIGHTSTART": "{} ha incontrato un nemico potente\nritorno al tuo mondo...",
 	"YKNX2_BOSSFIGHTEND": "{} ha sconfitto un nemico potente\nritorno al tuo mondo...",
 	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} ha scoperto {}",
