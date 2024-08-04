@@ -40,6 +40,8 @@
 	"OPTIONSELECT_OPENWORLD": "Open wereld voor zwervers",
 	"OPTIONSELECT_JOINWORLD": "Sluit je aan bij de wereld als een zwerver",
 	"OPTIONSELECT_BREAKINWORLD": "Val de wereld binnen als een zwerver",
+	"OPTIONSELECT_RAPIDREENTRYRBREAKINWORLD": "Seek opponent",
+	"OPTIONSELECT_CALLBREAKINSOS": "Mark world for other invaders",
 	"OPTIONSELECT_LEAVEWORLD": "verlaat de groep",
 	"OPTIONSELECT_LOCKWORLD": "Sluit de wereld af voor zwervers",
 	"OPTIONSELECT_UNLOCKWORLD": "Ontgrendel de wereld voor zwervers",
@@ -52,11 +54,13 @@
 	"FE_PLAYERDEATH": "DOOD",
 	"FE_BLOCKCLEAR": "VIJAND GEVELD",
 	"FE_PKMISSIONSUCCESS": "OVERWINNING BEHAALD",
+	"FE_PKPLAYERBANISHED": "INVADER VANQUISHED",
 
 	"YKNX2_DISPLAYPASSWORD": "Sessiewachtwoord\n{}",
 	"YKNX2_HOSTINGFAILED": "Kan sessie niet starten:\n{}",
 	"YKNX2_JOININGFAILED": "Kan niet deelnemen aan coöperatieve sessie:\n{}",
 	"YKNX2_BREAKINFAILED": "Kan sessie niet binnendringen:\n{}",
+	"YKNX2_NODLC": "You must own Shadow of the Erdtree to join this session",
 	"YKNX2_CONNECTING": "Verbinden [{}]\n{}",
 	"YKNX2_INVADING": "Een andere wereld binnenvallen...",
 	"YKNX2_PLAYERJOIN": "Wanderer {} is lid geworden",
@@ -77,11 +81,12 @@
 
 	"YKNX2_STATUS": "{}",
 	"YKNX2_EVERGAOLRADIUSERROR": "Failed to enter evergaol\nAll Wanderers must enter together",
-	"YKNX2_NODLC": "You must own Shadow of the Erdtree to join this session",
 	"YKNX2_INVASIONRADIUSERROR": "Unable to invade\nAll Wanderers must be present",
 	"YKNX2_INVASIONSTATEERROR": "Unable to invade\nThe sign does not respond to you",
 	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} has activated: {}",
 	"YKNX2_PLAYERBONFIREWARP": "{} has warped to: {}",
+	"YKNX2_INVASIONRAPIDREENTRYINFO": "The lynchpin begins to quiver...",
+
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "The power of grace expelled you from the arena",
 
 	"CREDITS": "LukeYui"

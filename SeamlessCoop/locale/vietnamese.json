@@ -27,7 +27,7 @@
 
 	"MODGOODSDESC_HOSTINGITEM": "Vật phẩm để chơi Seamless Coop.\n\nKhai mở thế giới cho những kẻ lang thang.\n\nCái Niêu Nhỏ sẽ luôn tìm kiếm những chiến binh có năng lực để bổ sung nhân lực. Bằng cách bày ra biểu tượng của nó, những chiến binh đầy tham vọng sẽ tham gia cùng ngươi trên con đường, trông chờ vào vận số của họ.",
 	"MODGOODSDESC_JOININGITEM": "Vật phẩm để chơi Seamless Coop.\n\nGia nhập thế giới khác với vai trò kẻ lang thang.\n\nNhiều chiến binh đã xem Malenia là biểu tượng của sức mạnh tối thượng. Hình nộm của cô ấy, chứa đựng tàn tích sự mục rữa của cô ấy, thu hút bất kì ai tìm kiếm những chiến binh mạnh mẽ.",
-	"MODGOODSDESC_BREAKINITEM": "Vật Phẩm để chơi đối đầu Online.\n\nXâm phạm thế giới khác với vai trò kẻ lang thang tàn bạo.\n\nChiếc ghim cài được sử dụng trong nghi lễ cổ xưa khi đến thăm thế giới khác, nhuốm đỏ người mang nó. Vết đâm nhỏ của nó là điềm báo về những gì sắp xảy ra.",
+	"MODGOODSDESC_BREAKINITEM": "Vật Phẩm để chơi đối đầu Online.\n\nXâm lược thế giới khác với vai trò kẻ lang thang tàn bạo.\n\nChiếc ghim cài được sử dụng trong nghi lễ cổ xưa khi đến thăm thế giới khác, nhuốm đỏ người mang nó. Vết đâm nhỏ của nó là điềm báo về những gì sắp xảy ra.",
 	"MODGOODSDESC_LEAVINGITEM": "Vật phẩm để chơi Seamless Coop.\n\nThoát khỏi thế giới hiện tại.\n\nMột khối cầu chứa đựng sương mù dày đặc và lạnh giá. Hơi sương lạnh lẽo và xa xăm, khiến những kẻ lang thang nghĩ đến chặng đường dài về nhà.",
 	"MODGOODSDESC_GAMERULECHANGEITEM": "Vật phẩm để chơi Seamless Coop.\n\nLàm bạn thành thù.\n\nNhững thẩm phán cao vót từng rong ruổi trên vùng đất này, sự khinh miệt của những kẻ chối từ. Ngươi có thể cảm nhận được nó đang tỏa ra - ngươi dám mở nó ra chứ?",
 	"MODGOODSDESC_RUNEARCITEM": "Một loại cocktail cổ ngữ, chứa mùi hương của chiếc Nhẫn Cổ vỡ vụn.\nHấp thụ một Đại Cổ Ngữ cùng với một lượng Cổ Ngữ khi tiêu thụ.\n\nKể cả khi không trang bị Đại Cổ Ngữ, nó sẽ tăng nhẹ lượng máu tối đa khi sử dụng.\n\nVòng cung phía dưới của chiếc Nhẫn Cổ được coi là lưu vực nơi chứa đựng phước lành của nó. Có lẻ chiếc bình này được bắt nguồn từ lưu vực đó.",
@@ -39,7 +39,9 @@
 
 	"OPTIONSELECT_OPENWORLD": "Khai mở thế giới cho những kẻ lang thang",
 	"OPTIONSELECT_JOINWORLD": "Gia nhập thế giời với vai trò kẻ lang thang",
-	"OPTIONSELECT_BREAKINWORLD": "Xâm phạm thế giới với vai trò kẻ lang thang",
+	"OPTIONSELECT_BREAKINWORLD": "Xâm lược thế giới với vai trò kẻ lang thang",
+	"OPTIONSELECT_RAPIDREENTRYRBREAKINWORLD": "Seek opponent",
+	"OPTIONSELECT_CALLBREAKINSOS": "Mark world for other invaders",
 	"OPTIONSELECT_LEAVEWORLD": "Rời tổ đội",
 	"OPTIONSELECT_LOCKWORLD": "Khóa thế giới của bạn với những Kẻ Lang Thang",
 	"OPTIONSELECT_UNLOCKWORLD": "Mở khóa thế giới của bạn với những Kẻ Lang Thang",
@@ -52,13 +54,15 @@
 	"FE_PLAYERDEATH": "TỬ TRẬN",
 	"FE_BLOCKCLEAR": "KẺ ĐỊCH ĐÃ GỤC NGÃ",
 	"FE_PKMISSIONSUCCESS": "CHIẾN THẮNG",
+	"FE_PKPLAYERBANISHED": "INVADER VANQUISHED",
 
 	"YKNX2_DISPLAYPASSWORD": "Mật khẩu của session\n{}",
 	"YKNX2_HOSTINGFAILED": "Tham gia session thất bại:\n{}",
 	"YKNX2_JOININGFAILED": "Tham gia co-op session thất bại:\n{}",
-	"YKNX2_BREAKINFAILED": "Xâm phạm session thất bại:\n{}",
+	"YKNX2_BREAKINFAILED": "Xâm lược session thất bại:\n{}",
+	"YKNX2_NODLC": "Bạn phải sở hữu Shadow of the Erdtree để tham gia session này",
 	"YKNX2_CONNECTING": "Đang kết nối [{}]\n{}",
-	"YKNX2_INVADING": "Đang xâm phạm thế giới khác...",
+	"YKNX2_INVADING": "Đang xâm lược thế giới khác...",
 	"YKNX2_PLAYERJOIN": "Kẻ Lang Thang {} đã gia nhập",
 	"YKNX2_INFORMTOGGLEPVP": "Quy tắc game luân chuyển:\nPvP là {}",
 	"YKNX2_INFORMTOGGLEPVPTEAMS": "Quy tắc game luân chuyển:\nPvP các đội là {}",
@@ -69,20 +73,21 @@
 
 	"YKNX2_PLAYERDIED": "{} đã tử trận",
 	"YKNX2_BREAKINPLAYERDIED": "Kẻ Lang Thang Tàn Bạo {} đã tử trận",
-	"YKNX2_BREAKINPLAYERJOIN": "Kẻ Lang Thang Tàn Bạo {} đã xâm phạm!",
+	"YKNX2_BREAKINPLAYERJOIN": "Kẻ Lang Thang Tàn Bạo {} đã xâm lược!",
 	"YKNX2_BREAKINPLAYERINTRODUCED": "Invaded world master {} as an evil spirit\nDefeat {} player(s)...",
 	"YKNX2_BOSSFIGHTSTART": "{} đã gặp phải kẻ thù trọng trách\nquay trở về thế giời của mình...",
 	"YKNX2_BOSSFIGHTEND": "{} đã đánh bại kẻ thù trọng trách\nquay trở về thế giời của mình...",
 	"YKNX2_PLAYERDISCONNECT": "{} đã rời khỏi",
 
 	"YKNX2_STATUS": "{}",
-	"YKNX2_NODLC": "You must own Shadow of the Erdtree to join this session",
-	"YKNX2_EVERGAOLRADIUSERROR": "Failed to enter evergaol\nAll Wanderers must enter together",
-	"YKNX2_INVASIONRADIUSERROR": "Unable to invade\nAll Wanderers must be present",
-	"YKNX2_INVASIONSTATEERROR": "Unable to invade\nThe sign does not respond to you",
+	"YKNX2_EVERGAOLRADIUSERROR": "Bước vào evergaol thất bại\nTất cả Kẻ Lang Thang phải bước vào cùng nhau",
+	"YKNX2_INVASIONRADIUSERROR": "Không thể xâm lược\nTất cả Kẻ Lang Thang phải có mặt",
+	"YKNX2_INVASIONSTATEERROR": "Không thể xâm lược\nKý hiệu không phản hồi tới bạn",
 	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} đã kích hoạt: {}",
-	"YKNX2_PLAYERBONFIREWARP": "{} has warped to: {}",
-	"ACTIONBUTTON_BOSSROOMKICKOUT": "The power of grace expelled you from the arena",
+	"YKNX2_PLAYERBONFIREWARP": "{} đã được chuyển đến: {}",
+	"YKNX2_INVASIONRAPIDREENTRYINFO": "Chiếc ghim cài đang rung chuyển...",
+
+	"ACTIONBUTTON_BOSSROOMKICKOUT": "Sức mạnh của Grace đã trục xuất ngươi khỏi đấu trường",
 
 	"CREDITS": "LukeYui"
 }

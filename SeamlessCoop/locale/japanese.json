@@ -40,6 +40,8 @@
 	"OPTIONSELECT_OPENWORLD": "自分の世界を開放する",
 	"OPTIONSELECT_JOINWORLD": "協力者として、他世界に参加する",
 	"OPTIONSELECT_BREAKINWORLD": "敵対者として、他世界に侵入する",
+	"OPTIONSELECT_RAPIDREENTRYRBREAKINWORLD": "侵入する世界を探しています",
+	"OPTIONSELECT_CALLBREAKINSOS": "自分の世界にさらなる侵入者を呼び込む",
 	"OPTIONSELECT_LEAVEWORLD": "この世界から退出する",
 	"OPTIONSELECT_LOCKWORLD": "新たな参加を禁止する",
 	"OPTIONSELECT_UNLOCKWORLD": "新たな参加を許可する",
@@ -52,6 +54,7 @@
 	"FE_PLAYERDEATH": "DEATH",
 	"FE_BLOCKCLEAR": "ENEMY FELLED",
 	"FE_PKMISSIONSUCCESS": "VICTORY ACHIEVED",
+	"FE_PKPLAYERBANISHED": "INVADER VANQUISHED",
 
 	"YKNX2_DISPLAYPASSWORD": "合言葉\n{}",
 	"YKNX2_HOSTINGFAILED": "セッションの開始に失敗しました\n{}",
@@ -71,7 +74,7 @@
 	"YKNX2_PLAYERDIED": "{} は死亡しました",
 	"YKNX2_BREAKINPLAYERDIED": "侵入者 {} は死亡しました",
 	"YKNX2_BREAKINPLAYERJOIN": "侵入者 {} が侵入しました",
-	"YKNX2_BREAKINPLAYERINTRODUCED": "Invaded world master {} as an evil spirit\nDefeat {} player(s)...",
+	"YKNX2_BREAKINPLAYERINTRODUCED": "{} の世界に闇霊として侵入しました\nプレイヤーは{}人です",
 	"YKNX2_BOSSFIGHTSTART": "{} がボスに到達しました\n元の世界へ戻ります",
 	"YKNX2_BOSSFIGHTEND": "{} がボスを撃破しました\n元の世界へ戻ります",
 	"YKNX2_PLAYERDISCONNECT": "{} が退出しました",
@@ -81,7 +84,9 @@
 	"YKNX2_INVASIONRADIUSERROR": "侵入できませんでした\nすべての参加者が存在する必要があります",
 	"YKNX2_INVASIONSTATEERROR": "侵入できませんでした\nサインから反応がありませんでした",
 	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} が祝福を解放しました: {}",
-	"YKNX2_PLAYERBONFIREWARP": "{} has warped to: {}",
+	"YKNX2_PLAYERBONFIREWARP": "{} は移動しました: {}",
+	"YKNX2_INVASIONRAPIDREENTRYINFO": "挑戦者の針が震え始めた",
+
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "祝福の力により、闘技場から追放されました",
 
 	"CREDITS": "LukeYui, Furisuke"

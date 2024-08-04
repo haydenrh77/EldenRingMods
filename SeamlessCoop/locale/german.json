@@ -40,6 +40,8 @@
 	"OPTIONSELECT_OPENWORLD": "Öffnet deine Welt für Wanderer",
 	"OPTIONSELECT_JOINWORLD": "Trete einer anderen Welt als Wanderer bei",
 	"OPTIONSELECT_BREAKINWORLD": "Überfalle die Welt als Wanderer",
+	"OPTIONSELECT_RAPIDREENTRYRBREAKINWORLD": "Seek opponent",
+	"OPTIONSELECT_CALLBREAKINSOS": "Mark world for other invaders",
 	"OPTIONSELECT_LEAVEWORLD": "Verlasse die Gruppe",
 	"OPTIONSELECT_LOCKWORLD": "Versperre die Welt für andere Wanderer",
 	"OPTIONSELECT_UNLOCKWORLD": "Entsperre die Welt für andere Wanderer",
@@ -52,11 +54,13 @@
 	"FE_PLAYERDEATH": "DU BIST GESTORBEN",
 	"FE_BLOCKCLEAR": "GEGNER VERNICHTET",
 	"FE_PKMISSIONSUCCESS": "DU HAST GESIEGT",
+	"FE_PKPLAYERBANISHED": "INVADER VANQUISHED",
 
 	"YKNX2_DISPLAYPASSWORD": "Sitzungspasswort\n{}",
 	"YKNX2_HOSTINGFAILED": "Die Sitzung konnte nicht gestartet werden:\n{}",
 	"YKNX2_JOININGFAILED": "Beitritt zur Kooperationssitzung fehlgeschlagen:\n{}",
 	"YKNX2_BREAKINFAILED": "Die Sitzung konnte nicht überfallen werden:\n{}",
+	"YKNX2_NODLC": "Du musst Schatten des Erdenbaumes besitzen um dieser Sitzung beitreten zu können", 
 	"YKNX2_CONNECTING": "Verbindet [{}]\n{}",
 	"YKNX2_INVADING": "Überfalle andere Welt...",
 	"YKNX2_PLAYERJOIN": "Wanderer {} ist beigetreten",
@@ -76,12 +80,13 @@
 	"YKNX2_PLAYERDISCONNECT": "{} hat deine Welt verlassen",
 
 	"YKNX2_STATUS": "{}",
-	"YKNX2_NODLC": "Du musst Schatten des Erdenbaumes besitzen um dieser Sitzung beitreten zu können", 
 	"YKNX2_EVERGAOLRADIUSERROR": "Betreten des Evergaols ist fehlgeschlagen\nAlle Wanderer müssen gemeinsam eintreten",
 	"YKNX2_INVASIONRADIUSERROR": "Überfallen fehlgeschlagen\nAlle Wanderer müssen anwesend sein",
 	"YKNX2_INVASIONSTATEERROR": "Überfallen fehlgeschlagen\nDas Zeichen antwortet dir nicht",
 	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} hat {} aktiviert",
 	"YKNX2_PLAYERBONFIREWARP": "{} has warped to: {}",
+	"YKNX2_INVASIONRAPIDREENTRYINFO": "The lynchpin begins to quiver...",
+
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "Die Kraft der Gnade verbannt dich aus der Arena",
 
 	"CREDITS": "LukeYui + Kanpeki + Stinky Sage :3"

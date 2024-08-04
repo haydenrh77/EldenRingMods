@@ -48,10 +48,14 @@
 	"OPTIONSELECT_TOGGLEPVPTEAMS": "Abilita gli scontri a squadre",
 	"OPTIONSELECT_TOGGLEFRIENDLYFIRE": "Abilita il fuoco amico",
 	"OPTIONSELECT_GIVEEMBER": "Sacrifica {} rune per un arco runico",
+	"OPTIONSELECT_RAPIDREENTRYRBREAKINWORLD": "Cerca un nemico",
+	"OPTIONSELECT_CALLBREAKINSOS": "Contrassegna il mondo per altri invasori",
 
 	"FE_PLAYERDEATH": "SEI MORTO",
 	"FE_BLOCKCLEAR": "NEMICO SCONFITTO",
 	"FE_PKMISSIONSUCCESS": "VITTORIA",
+	"FE_PKPLAYERBANISHED": "INVASORE SCONFITTO",
+
 
 	"YKNX2_DISPLAYPASSWORD": "Password della sessione\n{}",
 	"YKNX2_HOSTINGFAILED": "Impossibile creare la sessione:\n{}",
@@ -66,6 +70,7 @@
 	"YKNX2_INFORMBEGINSPECTATEPLAYER": "Osservando {}",
 	"YKNX2_GIVEEMBERINSUFFECIENT": "Rune insufficienti",
 	"YKNX2_GIVEEMBERFAILED": "Hai già un arco runico attivo",
+	"YKNX2_INVASIONRAPIDREENTRYINFO": "La spilla inizia a tremare...",
 
 	"YKNX2_STATUS": "{}",
 	"YKNX2_EVERGAOLRADIUSERROR": "Impossibile entrare nella galera eterna\nTutti i viandanti devono accedervi insieme",
@@ -73,16 +78,14 @@
 	"YKNX2_INVASIONRADIUSERROR": "Invasione fallita\nTutti i viandanti devono essere presenti",
 	"YKNX2_INVASIONSTATEERROR": "Invasione fallita\nIl segno non risponde",
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "Il potere della grazia ti ha espulso dall'arena",
-	"YKNX2_PLAYERBONFIREWARP": "{} has warped to: {}",
 	
 	"YKNX2_PLAYERDIED": "{} è morto",
 	"YKNX2_BREAKINPLAYERDIED": "Il viandante nemico {} è morto",
 	"YKNX2_BREAKINPLAYERJOIN": "Sei stato invaso dal viandante nemico {}!",
-	"YKNX2_BREAKINPLAYERINTRODUCED": "Invaded world master {} as an evil spirit\nDefeat {} player(s)...",
 	"YKNX2_BOSSFIGHTSTART": "{} ha incontrato un nemico potente\nritorno al tuo mondo...",
 	"YKNX2_BOSSFIGHTEND": "{} ha sconfitto un nemico potente\nritorno al tuo mondo...",
-	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} ha scoperto {}",
 	"YKNX2_PLAYERDISCONNECT": "{} ha lasciato il mondo.",
+	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} ha scoperto {}",
 
 	"CREDITS": "Nicklaj"
 }

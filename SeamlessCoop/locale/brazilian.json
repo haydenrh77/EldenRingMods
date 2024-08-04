@@ -40,6 +40,8 @@
 	"OPTIONSELECT_OPENWORLD": "Abre o mundo para viajantes",
 	"OPTIONSELECT_JOINWORLD": "Junte-se a um mundo como viajante",
 	"OPTIONSELECT_BREAKINWORLD": "Invade um mundo como viajante",
+	"OPTIONSELECT_RAPIDREENTRYRBREAKINWORLD": "Procurando por oponentes",
+	"OPTIONSELECT_CALLBREAKINSOS": "Abre o mundo para invasores",
 	"OPTIONSELECT_LEAVEWORLD": "Deixe o grupo",
 	"OPTIONSELECT_LOCKWORLD": "Tranca o mundo de viajantes",
 	"OPTIONSELECT_UNLOCKWORLD": "Destranca o mundo de viajantes",
@@ -52,11 +54,13 @@
 	"FE_PLAYERDEATH": "VOCÊ MORREU",
 	"FE_BLOCKCLEAR": "INIMIGO CAÍDO",
 	"FE_PKMISSIONSUCCESS": "VITÓRIA CONQUISTADA",
+	"FE_PKPLAYERBANISHED": "INVASOR BANIDO",
 
 	"YKNX2_DISPLAYPASSWORD": "Senha da sessão\n{}",
 	"YKNX2_HOSTINGFAILED": "Falhou em começar a sessão:\n{}",
 	"YKNX2_JOININGFAILED": "Falhou em juntar a sessão cooperativa:\n{}",
 	"YKNX2_BREAKINFAILED": "Falhou em invadir a sessão:\n{}",
+	"YKNX2_NODLC": "Você precisa possuir a DLC Shadow of the Erdtree para se juntar a essa sessão",
 	"YKNX2_CONNECTING": "Conectando [{}]\n{}",
 	"YKNX2_INVADING": "Invadindo outro mundo...",
 	"YKNX2_PLAYERJOIN": "Viajante {} se juntou",
@@ -70,19 +74,20 @@
 	"YKNX2_PLAYERDIED": "{} morreu",
 	"YKNX2_BREAKINPLAYERDIED": "Invasor maligno {} morreu",
 	"YKNX2_BREAKINPLAYERJOIN": "Invasor maligno {} invadiu!",
-	"YKNX2_BREAKINPLAYERINTRODUCED": "Invaded world master {} as an evil spirit\nDefeat {} player(s)...",
+	"YKNX2_BREAKINPLAYERINTRODUCED": "Invadindo o mundo do lider {} como um espírito maligno\nDerrote {} jogador(es)...",
 	"YKNX2_BOSSFIGHTSTART": "{} encontrou um inimigo maior\nretornando ao seu próprio mundo...",
 	"YKNX2_BOSSFIGHTEND": "{} derrotou um inimigo maior\nretornando ao seu próprio mundo...",
 	"YKNX2_PLAYERDISCONNECT": "{} saiu",
 
 	"YKNX2_STATUS": "{}",
 	"YKNX2_EVERGAOLRADIUSERROR": "Falhou ao entrar no Cárcere Perpétuo\nTodos viajantes precisam estar juntos",
-	"YKNX2_NODLC": "Você precisa possuir a DLC Shadow of the Erdtree para se juntar a essa sessão",
 	"YKNX2_INVASIONRADIUSERROR": "Incapaz de invadir\nTodos viajantes precisam estar presentes",
 	"YKNX2_INVASIONSTATEERROR": "Incapaz de invadir\nO sinal não responde a você",
 	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} ativou: {}",
-	"YKNX2_PLAYERBONFIREWARP": "{} has warped to: {}",
+	"YKNX2_PLAYERBONFIREWARP": "{} foi enviado para: {}",
+	"YKNX2_INVASIONRAPIDREENTRYINFO": "A linchagulha começa a tremer...",
+
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "O poder da graça expulsou você da arena",
 
-	"CREDITS": "Leonardo Machado"
+	"CREDITS": "Leonardo Machado, ThreyKiller"
 }

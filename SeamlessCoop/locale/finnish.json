@@ -40,6 +40,8 @@
 	"OPTIONSELECT_OPENWORLD": "Avataanko maailma muille pelaajille?",
 	"OPTIONSELECT_JOINWORLD": "Liitytäänkö toisen pelaajaan mukaan Vierailijana?",
 	"OPTIONSELECT_BREAKINWORLD": "Valloitetaanko toisen pelaajan maailma?",
+	"OPTIONSELECT_RAPIDREENTRYRBREAKINWORLD": "Seek opponent",
+	"OPTIONSELECT_CALLBREAKINSOS": "Mark world for other invaders",
 	"OPTIONSELECT_LEAVEWORLD": "Erotutaanko maailmasta?",
 	"OPTIONSELECT_LOCKWORLD": "Lukitse maailma joiltakin muilta pelaajilta?",
 	"OPTIONSELECT_UNLOCKWORLD": "Avataanko maailma muulle pelaajalle?",
@@ -52,11 +54,13 @@
 	"FE_PLAYERDEATH": "KUOLIT",
 	"FE_BLOCKCLEAR": "VIHOLLINEN KUOLI",
 	"FE_PKMISSIONSUCCESS": "VOITTO SAAVUTETTU",
+	"FE_PKPLAYERBANISHED": "INVADER VANQUISHED",
 
 	"YKNX2_DISPLAYPASSWORD": "Maailman salasana\n{}",
 	"YKNX2_HOSTINGFAILED": "Virhe alottaessa maailmaa muille pelaajille, tarkistathan salasanan!:\n{}",
 	"YKNX2_JOININGFAILED": "Virhe yrittäessä liittyä toisen maailmaan, tarkistathan salasanan!:\n{}",
 	"YKNX2_BREAKINFAILED": "Virhe yrittäessä aloittaa valloitusta:\n{}",
+	"YKNX2_NODLC": "Sinun pitää omistaa Shadow of the Erdtree Lisäosa, että pystyt liittyä",
 	"YKNX2_CONNECTING": "Yhdistetään [{}]\n{}",
 	"YKNX2_INVADING": "Valloitetaan toisen maailmaa . . .",
 	"YKNX2_PLAYERJOIN": "Vaeltaja {} Liittyi onnistuneesti!",
@@ -77,11 +81,12 @@
 
 	"YKNX2_STATUS": "{}",
 	"YKNX2_EVERGAOLRADIUSERROR": "Epäonnistui yrittäessä mennä toispuoleiseen\nKaikki vaeltajat pitää mennä yhdessä toispuoleiseen",
-	"YKNX2_NODLC": "Sinun pitää omistaa Shadow of the Erdtree Lisäosa, että pystyt liittyä",
 	"YKNX2_INVASIONRADIUSERROR": "Epäonnistui yrittäessä valloittaa\nKaikki vaeltajat pitää olla paikalla/yhdessä",
 	"YKNX2_INVASIONSTATEERROR": "Epäonnistui yrittäessä valloittaa\nMerkki ei vastaa sinulle",
 	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} Aktivoi: {}",
 	"YKNX2_PLAYERBONFIREWARP": "{} has warped to: {}",
+	"YKNX2_INVASIONRAPIDREENTRYINFO": "The lynchpin begins to quiver...",
+
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "Site of gracen voima veti sinut pois areenalta",
 
 	"CREDITS": "RayDit - YukeLui"
