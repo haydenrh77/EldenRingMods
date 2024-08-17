@@ -41,7 +41,7 @@
 	"OPTIONSELECT_JOINWORLD": "¿Unirse a un mundo como errante?",
 	"OPTIONSELECT_BREAKINWORLD": "¿Invadir un mundo como errante?",
 	"OPTIONSELECT_RAPIDREENTRYRBREAKINWORLD": "¿Buscar oponente?",
-	"OPTIONSELECT_CALLBREAKINSOS": "Mark world for other invaders",
+	"OPTIONSELECT_CALLBREAKINSOS": "¿Marcar mundo para invasores?",
 	"OPTIONSELECT_LEAVEWORLD": "¿Salir del grupo?",
 	"OPTIONSELECT_LOCKWORLD": "¿Bloquear el mundo a los errantes?",
 	"OPTIONSELECT_UNLOCKWORLD": "¿Desbloquear el mundo a los errantes?",
@@ -54,7 +54,7 @@
 	"FE_PLAYERDEATH": "HAS MUERTO",
 	"FE_BLOCKCLEAR": "ENEMIGO ABATIDO",
 	"FE_PKMISSIONSUCCESS": "VICTORIA CONSEGUIDA",
-	"FE_PKPLAYERBANISHED": "INVADER VANQUISHED",
+	"FE_PKPLAYERBANISHED": "INVASOR DERROTADO",
 
 	"YKNX2_DISPLAYPASSWORD": "Contraseña de la sesión\n{}",
 	"YKNX2_HOSTINGFAILED": "Fracaso al comenzar la sesión:\n{}",

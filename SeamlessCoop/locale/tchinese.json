@@ -34,7 +34,7 @@
 	"MODGOODSDESC_ROTITEM01": "從那些被賜福所拋棄而墮落的褪色者中所誕生的精隨。\n\n所背負的腐敗精隨是一種詛咒，不斷的提醒著生命的短暫與脆弱，再將其附加於持有者身上。\n\n你可以感受到腐敗正漸漸地侵蝕著你身體的每個地方，且不斷地蔓延著。於賜福中休息將能消除所有形式的腐敗。",
 	"MODGOODSDESC_ROTITEM02": "從那些被賜福所拋棄而墮落的褪色者中所誕生的精隨。\n\n所背負的腐敗精隨是一種詛咒，不斷的提醒著生命的短暫與脆弱，再將其附加於持有者身上。\n\n凝視著前方，一切都看起來是那麼的無望。\"這一切還有任何價值嗎？\"腦中僅徒存這番話，不斷地迴盪著。於賜福中休息將能消除所有形式的腐敗。",
 	"MODGOODSDESC_ROTITEM03": "從那些被賜福所拋棄而墮落的褪色者中所誕生的精隨。\n\n所背負的腐敗精隨是一種詛咒，不斷的提醒著生命的短暫與脆弱，再將其附加於持有者身上。\n\n腐敗奪走了你與女巫之間的聯繫，梅琳娜看似愈加消色，您與她之間的牽絆也漸行漸遠。於賜福中休息將能消除所有形式的腐敗。",
-	"MODGOODSDESC_ROTITEM04": "從那些被賜福所拋棄而墮落的褪色者中所誕生的精隨。\n\n所背負的腐敗精隨是一種詛咒，不斷的提醒著生命的短暫與脆弱，再將其附加於持有者身上。\n\n你逐漸衰弱，在過去曾是黃金樹的強大依枝的你，如今僅為枯枝。於賜福中休息將能消除所有形式的腐敗。",
+	"MODGOODSDESC_ROTITEM04": "從那些被賜福所拋棄而墮落的褪色者中所誕生的精隨。\n\n所背負的腐敗精隨是一種詛咒，不斷的提醒著生命的短暫與脆弱，再將其附加於持有者身上。\n\n你逐漸衰弱，在過去曾是黃金樹的強大依枝的你，如今僅淪為枯枝。於賜福中休息將能消除所有形式的腐敗。",
 	"MODGOODSDESC_ROTITEM05": "從那些被賜福所拋棄而墮落的褪色者中所誕生的精隨。\n\n所背負的腐敗精隨是一種詛咒，不斷的提醒著生命的短暫與脆弱，再將其附加於持有者身上。。\n\n每次的戰鬥都愈加艱辛，是這個世界否定了你的存在？還是你否定了這個世界？\n\n於賜福中休息將能消除所有形式的腐敗。",
 
 	"OPTIONSELECT_OPENWORLD": "將世界開放於流浪者們",
@@ -42,7 +42,7 @@
 	"OPTIONSELECT_BREAKINWORLD": "作為流浪者，入侵其他世界",
 	"OPTIONSELECT_RAPIDREENTRYRBREAKINWORLD": "正在尋找可入侵的世界。",
 	"OPTIONSELECT_CALLBREAKINSOS": "標記此世界於其他入侵者們。",
-	"OPTIONSELECT_LEAVEWORLD": "離開此世界",
+	"OPTIONSELECT_LEAVEWORLD": "關閉／離開此世界",
 	"OPTIONSELECT_LOCKWORLD": "鎖定此世界於其他流浪者們",
 	"OPTIONSELECT_UNLOCKWORLD": "開放此世界於其他流浪者們",
 	"OPTIONSELECT_SHOWYKNX2PASSWORD": "查看目前的連線配對暗號",
@@ -87,7 +87,7 @@
 	"YKNX2_PLAYERBONFIREWARP": "{}已傳送至：{}",
 	"YKNX2_INVASIONRAPIDREENTRYINFO": "挑戰者鍵針正在顫動。",
 
-	"ACTIONBUTTON_BOSSROOMKICKOUT": "賜福之力將您逐出了競技場。",
+	"ACTIONBUTTON_BOSSROOMKICKOUT": "賜福之力將您逐出了此區域。",
 
 	"CREDITS": "Flygon, the Templar"
 }
