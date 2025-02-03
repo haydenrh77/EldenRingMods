@@ -12,6 +12,7 @@
 	"MODGOODSNAME_ROTITEM03": "Essenza della Marcescenza: Decadimento",
 	"MODGOODSNAME_ROTITEM04": "Essenza della Marcescenza: Fragilità",
 	"MODGOODSNAME_ROTITEM05": "Essenza della Marcescenza: Disperazione",
+	"MODGOODSNAME_DRIEDFINGERITEM": "Dita Essiccate",
 
 	"MODGOODSINFO_HOSTINGITEM": "Apri il tuo mondo ad altri viandanti",
 	"MODGOODSINFO_JOININGITEM": "Unisciti ad un altro mondo come viandante",
@@ -24,6 +25,7 @@
 	"MODGOODSINFO_ROTITEM03": "Riduce l'acquisizione di rune e la scoperta di nuovi oggetti",
 	"MODGOODSINFO_ROTITEM04": "Riduce la difesa",
 	"MODGOODSINFO_ROTITEM05": "Riduce l'attacco",
+	"MODGOODSINFO_DRIEDFINGERITEM": "Attrae più invasori verso questo mondo",
 
 	"MODGOODSDESC_HOSTINGITEM": "Oggetto per il gioco online seamless.\n\nApre il tuo mondo ad altri viandanti.\n\nIl Grande Vaso è sempre in cerca di guerrieri capaci da aggiungere ai suoi ranghi. Rivelando il suo simbolo, gli aspiranti guerrieri si uniranno a te nel tuo viaggio, in attesa del suo giudizio.",
 	"MODGOODSDESC_JOININGITEM": "Oggetto per il gioco online seamless.\n\nUnisciti ad un mondo come viandante.\n\nInnumerevoli guerrieri hanno venerato Malenia come simbolo di forza assoluta. La sua effige, contenente delle tracce della sua marcescenza scarlatta, attrarrà coloro che cercano potenti guerrieri.",
@@ -36,6 +38,7 @@
 	"MODGOODSDESC_ROTITEM03": "L'essenza di un Senzaluce caduto, dimenticato dalla Grazia.\n\nPortare con sé essenza marcescente è un monito costante della propria fragile mortalità e infligge una maledizione al portatore.\n\nLa marcescenza si impossessa del legame con la tua vergine. Melina sembra più debole; i suoi favori e i suoi doni più distanti.\n\nI Luoghi di Grazia donano tregua da tutti i tipi di marcescenza.",
 	"MODGOODSDESC_ROTITEM04": "L'essenza di un Senzaluce caduto, dimenticato dalla Grazia.\n\nPortare con sé essenza marcescente è un monito costante della propria fragile mortalità e infligge una maledizione al portatore.\n\nSei indebolito. Quello che era un possente ramo dell'Albero Madre ora non è che un ramoscello.\n\nI Luoghi di Grazia donano tregua da tutti i tipi di marcescenza.",
 	"MODGOODSDESC_ROTITEM05": "L'essenza di un Senzaluce caduto, dimenticato dalla Grazia.\n\nPortare con sé essenza marcescente è un monito costante della propria fragile mortalità e infligge una maledizione al portatore.\n\nOgni lotta diventa ardua. Il mondo è diventato più ostile alla tua presenza o rifuggi da te stesso?\n\nI Luoghi di Grazia donano tregua da tutti i tipi di marcescenza.",
+	"MODGOODSDESC_DRIEDFINGERITEM": "Oggetto per il gioco online seamless.\n\nAttrae più invasori verso questo mondo\n\nUn pendente realizzato a partire da un dito, che attrae coloro che li collezionano. L'utilizzo chiamerà tutti coloro che desiderano raccogliere dita.",
 
 	"OPTIONSELECT_OPENWORLD": "Apri il mondo ad altri viandanti",
 	"OPTIONSELECT_JOINWORLD": "Unisciti al mondo di un altro giocatore come viandante",
@@ -49,13 +52,27 @@
 	"OPTIONSELECT_TOGGLEFRIENDLYFIRE": "Abilita il fuoco amico",
 	"OPTIONSELECT_GIVEEMBER": "Sacrifica {} rune per un arco runico",
 	"OPTIONSELECT_RAPIDREENTRYRBREAKINWORLD": "Cerca un nemico",
+	"OPTIONSELECT_TOGGLEDRIEDFINGER": "Open world to more invaders",
 	"OPTIONSELECT_CALLBREAKINSOS": "Contrassegna il mondo per altri invasori",
+	"OPTIONSELECT_EASYENEMYRUSH": "Facile",
+	"OPTIONSELECT_MEDENEMYRUSH": "Medio",
+	"OPTIONSELECT_HARDENEMYRUSH": "Difficile",
+	"OPTIONSELECT_INFENEMYRUSH": "Impossibile",
+	"OPTIONSELECT_BOSSRUSH": "BOSS",
+	"OPTIONSELECT_BOSSRUSHDLC": "BOSS (DLC)",
+	"OPTIONSELECT_BOSSRUSHBASEDLC": "BOSS (ALL)",
+	"OPTIONSELECT_STARTEVILSESSION": "Start evil session",
+	"OPTIONSELECT_SEEKEVILSESSION": "Join evil session",
+	"OPTIONSELECT_VIEWEVILSESSION": "View evil session",
+	"OPTIONSELECT_LEAVEEVILSESSION": "Leave evil session",
 
 	"FE_PLAYERDEATH": "SEI MORTO",
 	"FE_BLOCKCLEAR": "NEMICO SCONFITTO",
 	"FE_PKMISSIONSUCCESS": "VITTORIA",
 	"FE_PKPLAYERBANISHED": "INVASORE SCONFITTO",
-
+	"FE_BRARENASTART": "INIZIO",
+	"FE_BRARENALOSE": "FALLIMENTO",
+	"FE_BRARENAWIN": "VITTORIA",
 
 	"YKNX2_DISPLAYPASSWORD": "Password della sessione\n{}",
 	"YKNX2_HOSTINGFAILED": "Impossibile creare la sessione:\n{}",
@@ -74,7 +91,7 @@
 
 	"YKNX2_STATUS": "{}",
 	"YKNX2_EVERGAOLRADIUSERROR": "Impossibile entrare nella galera eterna\nTutti i viandanti devono accedervi insieme",
-	"YKNX2_NODLC": "Devi possedere Shadow of the Erdtree per unirti a questa sessione",
+	"YKNX2_NODLC": "Devi possedere Ombra dell'Albero Madre per unirti a questa sessione",
 	"YKNX2_INVASIONRADIUSERROR": "Invasione fallita\nTutti i viandanti devono essere presenti",
 	"YKNX2_INVASIONSTATEERROR": "Invasione fallita\nIl segno non risponde",
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "Il potere della grazia ti ha espulso dall'arena",
@@ -82,10 +99,19 @@
 	"YKNX2_PLAYERDIED": "{} è morto",
 	"YKNX2_BREAKINPLAYERDIED": "Il viandante nemico {} è morto",
 	"YKNX2_BREAKINPLAYERJOIN": "Sei stato invaso dal viandante nemico {}!",
+	"YKNX2_BREAKINPLAYERINTRODUCED": "Invaded world master {} as an evil spirit\nDefeat {} player(s)...",
 	"YKNX2_BOSSFIGHTSTART": "{} ha incontrato un nemico potente\nritorno al tuo mondo...",
 	"YKNX2_BOSSFIGHTEND": "{} ha sconfitto un nemico potente\nritorno al tuo mondo...",
 	"YKNX2_PLAYERDISCONNECT": "{} ha lasciato il mondo.",
 	"YKNX2_PLAYERBONFIRSTFIRSTLVLUP": "{} ha scoperto {}",
+	"YKNX2_PLAYERBONFIREWARP": "{} has warped to: {}",
+	
+	"YKBR2_INFORMBATTLESTART": "Senti un misterioso calore travolgerti",	
+	"YKBR2_INFORMBATTLEWAVE": "L'ondata {} si avvicina...",
+	"YKBR2_INFORMBATTLEEND": "Ti stai svegliando...",
+	"YKBR2_NOFUNCTION": "You must first open your world",
+	"YKBR2_NOPERMISSION": "Only the world's master can interact with it",
+	"YKBR2_NOACCESS": "Dragonlord Placidusax denies your entry",
 
 	"CREDITS": "Nicklaj"
 }

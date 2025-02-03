@@ -12,6 +12,7 @@
 	"MODGOODSNAME_ROTITEM03": "Rot essentie: Verval",
 	"MODGOODSNAME_ROTITEM04": "Rot essentie: Kwetsbaarheid",
 	"MODGOODSNAME_ROTITEM05": "Rot essentie: Wanhoop",
+	"MODGOODSNAME_DRIEDFINGERITEM": "Dried Fingers",
 
 	"MODGOODSINFO_HOSTINGITEM": "Opent je wereld voor zwervers",
 	"MODGOODSINFO_JOININGITEM": "Sluit zich als zwerver aan bij een andere wereld",
@@ -24,6 +25,7 @@
 	"MODGOODSINFO_ROTITEM03": "Vermindert het verwerven van runen en het ontdekken van items",
 	"MODGOODSINFO_ROTITEM04": "Vermindert de verdediging",
 	"MODGOODSINFO_ROTITEM05": "Vermindert de aanval",
+	"MODGOODSINFO_DRIEDFINGERITEM": "Attracts more invaders to current world",
 
 	"MODGOODSDESC_HOSTINGITEM": "Item voor naadloos online spelen.\n\nOpent je wereld voor zwervers.\n\nDe Grote Pot is altijd op zoek naar capabele krijgers om zijn rang te vergroten. Door het symbool te onthullen, zullen aspirant-krijgers je vergezellen op je zoektocht, in afwachting van hun oordeel.",
 	"MODGOODSDESC_JOININGITEM": "Item voor naadloos online spelen.\n\nVoeg je als zwerver in een wereld.\n\nVeel krijgers hebben tegen Malenia opgekeken als het symbool van ultieme kracht. Haar beeltenis, die een overblijfsel van haar scharlakenrode rotting bevat, zal aangetrokken worden tot degenen die op zoek zijn naar krachtige krijgers.",
@@ -36,6 +38,7 @@
 	"MODGOODSDESC_ROTITEM03": "De essentie van een gevallene, bezoedeld, vergeten door genade. Het dragen van rotte essentie op iemands persoon is een constante herinnering aan hun kwetsbare sterfelijkheid, en legt een vloek op de houder.\n\nRot neemt bezit van je verbinding met je meisje. Melina lijkt zwakker; haar gunsten en geschenken verder.\n\nSites of Grace bieden uitstel van alle vormen van rotting.",
 	"MODGOODSDESC_ROTITEM04": "De essentie van een gevallene, bezoedeld, vergeten door genade. Het dragen van rottingsessentie op iemands persoon is een constante herinnering aan hun kwetsbare sterfelijkheid, en legt een vloek op de houder.\n\nJe bent verzwakt. Wat een machtige tak van de Erdtree was, is nu niets anders dan een takje. \n\nSites of Grace bieden bescherming tegen alle vormen van rot.",
 	"MODGOODSDESC_ROTITEM05": "De essentie van een gevallene, bezoedeld, vergeten door genade. Het dragen van rottende essentie op iemands persoon is een constante herinnering aan hun kwetsbare sterfelijkheid, en legt een vloek op de houder.\n\nElke strijd wordt zwaar. Is de wereld vijandiger geworden tegenover jouw aanwezigheid, of heb je jezelf gemeden?\n\nSites of Grace bieden uitstel van alle vormen van rotting.",
+	"MODGOODSDESC_DRIEDFINGERITEM": "Item for seamless online play.\n\nAttracts more invaders to current world.\n\nAn enticing finger pendant, attractive to those who wish to collect them. Simply flashing it will call forth all those who wish to reap fingers.",
 
 	"OPTIONSELECT_OPENWORLD": "Open wereld voor zwervers",
 	"OPTIONSELECT_JOINWORLD": "Sluit je aan bij de wereld als een zwerver",
@@ -49,12 +52,27 @@
 	"OPTIONSELECT_TOGGLEPVP": "Schakel PvP in",
 	"OPTIONSELECT_TOGGLEPVPTEAMS": "Schakel PvP-teams in",
 	"OPTIONSELECT_TOGGLEFRIENDLYFIRE": "Schakel vriendelijk vuur in",
+	"OPTIONSELECT_TOGGLEDRIEDFINGER": "Open world to more invaders",
 	"OPTIONSELECT_GIVEEMBER": "Offer {} runen op voor een runenboog",
+	"OPTIONSELECT_EASYENEMYRUSH": "Easy",
+	"OPTIONSELECT_MEDENEMYRUSH": "Medium",
+	"OPTIONSELECT_HARDENEMYRUSH": "Hard",
+	"OPTIONSELECT_INFENEMYRUSH": "Impossible",
+	"OPTIONSELECT_BOSSRUSH": "BOSS",
+	"OPTIONSELECT_BOSSRUSHDLC": "BOSS (DLC)",
+	"OPTIONSELECT_BOSSRUSHBASEDLC": "BOSS (ALL)",
+	"OPTIONSELECT_STARTEVILSESSION": "Start evil session",
+	"OPTIONSELECT_SEEKEVILSESSION": "Join evil session",
+	"OPTIONSELECT_VIEWEVILSESSION": "View evil session",
+	"OPTIONSELECT_LEAVEEVILSESSION": "Leave evil session",
 
 	"FE_PLAYERDEATH": "DOOD",
 	"FE_BLOCKCLEAR": "VIJAND GEVELD",
 	"FE_PKMISSIONSUCCESS": "OVERWINNING BEHAALD",
 	"FE_PKPLAYERBANISHED": "INVADER VANQUISHED",
+	"FE_BRARENASTART": "START",
+	"FE_BRARENALOSE": "FAILURE",
+	"FE_BRARENAWIN": "VICTORY",
 
 	"YKNX2_DISPLAYPASSWORD": "Sessiewachtwoord\n{}",
 	"YKNX2_HOSTINGFAILED": "Kan sessie niet starten:\n{}",
@@ -88,6 +106,13 @@
 	"YKNX2_INVASIONRAPIDREENTRYINFO": "The lynchpin begins to quiver...",
 
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "The power of grace expelled you from the arena",
+	
+	"YKBR2_INFORMBATTLESTART": "You feel a mysterious warmth wash over you",	
+	"YKBR2_INFORMBATTLEWAVE": "Battle wave {} is approaching...",
+	"YKBR2_INFORMBATTLEEND": "You begin to awake...",
+	"YKBR2_NOFUNCTION": "You must first open your world",
+	"YKBR2_NOPERMISSION": "Only the world's master can interact with it",
+	"YKBR2_NOACCESS": "Dragonlord Placidusax denies your entry",
 
 	"CREDITS": "LukeYui"
 }

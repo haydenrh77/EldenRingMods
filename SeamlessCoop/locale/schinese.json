@@ -12,6 +12,7 @@
 	"MODGOODSNAME_ROTITEM03": "腐败精华：衰败",
 	"MODGOODSNAME_ROTITEM04": "腐败精华：脆弱",
 	"MODGOODSNAME_ROTITEM05": "腐败精华：绝望",
+	"MODGOODSNAME_DRIEDFINGERITEM": "干缩手指",
 
 	"MODGOODSINFO_HOSTINGITEM": "向流浪者开放你的世界",
 	"MODGOODSINFO_JOININGITEM": "作为流浪者加入其他世界",
@@ -24,6 +25,7 @@
 	"MODGOODSINFO_ROTITEM03": "减少获得的卢恩，并降低观察力",
 	"MODGOODSINFO_ROTITEM04": "降低防御力",
 	"MODGOODSINFO_ROTITEM05": "降低攻击力",
+	"MODGOODSINFO_DRIEDFINGERITEM": "吸引更多的入侵者",
 
 	"MODGOODSDESC_HOSTINGITEM": "用于无缝联机的道具。\n\n向流浪者开放你的世界。\n\n大壶为提升自己的力量，不断寻找能力强大的战士。显露其纹章将招徕有志之士，而审判也将随之降临。",
 	"MODGOODSDESC_JOININGITEM": "用于无缝联机的道具。\n\n作为流浪者加入其他世界。\n\n大量的战士将玛莲妮亚视作无限力量的象征。残留着她体内的猩红腐败的雕像，将会被那些寻求强大战士的人所吸引。",
@@ -36,6 +38,7 @@
 	"MODGOODSDESC_ROTITEM03": "被赐福所抛弃的堕落流浪者所残留的精华。持有腐败精华，是对持有者脆弱生命的不断提醒，也为其带来诅咒。\n\n腐败控制了你和指头女巫之间得联系。梅琳娜变得虚弱，她的恩赐变得遥不可及。\n\n受赐福之地可解除一切腐败。",
 	"MODGOODSDESC_ROTITEM04": "被赐福所抛弃的堕落流浪者所残留的精华。持有腐败精华，是对持有者脆弱生命的不断提醒，也为其带来诅咒。\n\n你变得脆弱。曾经粗壮的黄金树树干已为细小枝条。\n\n受赐福之地可解除一切腐败。",
 	"MODGOODSDESC_ROTITEM05": "被赐福所抛弃的堕落流浪者所残留的精华。持有腐败精华，是对持有者脆弱生命的不断提醒，也为其带来诅咒。\n\nE每一次挣扎都变得非常艰辛。是世界对你的存在变得更加敌对，还是你否定自己的存在呢？\n\n受赐福之地可解除一切腐败。",
+	"MODGOODSDESC_DRIEDFINGERITEM": "用于无缝联机的道具。\n\n能吸引更多的入侵者。\n\n诱人的指头吊坠，吸引那些想要取得它的人。只需闪烁其光芒，就能吸引所有想要获得指头的人。",
 
 	"OPTIONSELECT_OPENWORLD": "向流浪者开放世界",
 	"OPTIONSELECT_JOINWORLD": "作为流浪者加入其他世界",
@@ -49,12 +52,27 @@
 	"OPTIONSELECT_TOGGLEPVP": "切换 PvP 模式",
 	"OPTIONSELECT_TOGGLEPVPTEAMS": "切换 PvP 队伍",
 	"OPTIONSELECT_TOGGLEFRIENDLYFIRE": "切换友军伤害",
+	"OPTIONSELECT_TOGGLEDRIEDFINGER": "向更多入侵者开放世界",
 	"OPTIONSELECT_GIVEEMBER": "牺牲{}卢恩以换取卢恩弯弧",
+	"OPTIONSELECT_EASYENEMYRUSH": "简单",
+	"OPTIONSELECT_MEDENEMYRUSH": "中等",
+	"OPTIONSELECT_HARDENEMYRUSH": "困难",
+	"OPTIONSELECT_INFENEMYRUSH": "极难",
+	"OPTIONSELECT_BOSSRUSH": "BOSS",
+	"OPTIONSELECT_BOSSRUSHDLC": "BOSS (DLC)",
+	"OPTIONSELECT_BOSSRUSHBASEDLC": "BOSS (ALL)",
+	"OPTIONSELECT_STARTEVILSESSION": "Start evil session",
+	"OPTIONSELECT_SEEKEVILSESSION": "Join evil session",
+	"OPTIONSELECT_VIEWEVILSESSION": "View evil session",
+	"OPTIONSELECT_LEAVEEVILSESSION": "Leave evil session",
 
 	"FE_PLAYERDEATH": "DEATH",
 	"FE_BLOCKCLEAR": "ENEMY FELLED",
 	"FE_PKMISSIONSUCCESS": "VICTORY ACHIEVED",
 	"FE_PKPLAYERBANISHED": "INVADER VANQUISHED",
+	"FE_BRARENASTART": "START",
+	"FE_BRARENALOSE": "FAILURE",
+	"FE_BRARENAWIN": "VICTORY",
 
 	"YKNX2_DISPLAYPASSWORD": "联机匹配暗号\n{}",
 	"YKNX2_HOSTINGFAILED": "对外开放世界失败：\n{}",
@@ -88,6 +106,13 @@
 	"YKNX2_INVASIONRAPIDREENTRYINFO": "挑战者之针正在颤动...",
 
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "你被赐福的力量驱逐出竞技场",
+	
+	"YKBR2_INFORMBATTLESTART": "你感到一股神秘的暖意向你袭来",	
+	"YKBR2_INFORMBATTLEWAVE": "第 {} 波攻击即将袭来...",
+	"YKBR2_INFORMBATTLEEND": "你即将苏醒...",
+	"YKBR2_NOFUNCTION": "You must first open your world",
+	"YKBR2_NOPERMISSION": "Only the world's master can interact with it",
+	"YKBR2_NOACCESS": "Dragonlord Placidusax denies your entry",
 
 	"CREDITS": "_connlost"
 }

@@ -12,6 +12,7 @@
 "MODGOODSNAME_ROTITEM03": "Rothadás esszencia: Romlás",
 "MODGOODSNAME_ROTITEM04": "Rothadás esszencia: Sebezhetőség",
 "MODGOODSNAME_ROTITEM05": "Rothadás esszencia: Kétségbeesés",
+"MODGOODSNAME_DRIEDFINGERITEM": "Száraz ujjak",
 
 "MODGOODSINFO_HOSTINGITEM": "Megnyitja a világodat a vándorok számára",
 "MODGOODSINFO_JOININGITEM": "Vándorként csatlakozol a másik világba",
@@ -24,6 +25,7 @@
 "MODGOODSINFO_ROTITEM03": "Csökkenti a megszerzett rúnák számát és a tárgyfelfedezés esélyét",
 "MODGOODSINFO_ROTITEM04": "Csökkenti a védelem erejét",
 "MODGOODSINFO_ROTITEM05": "Csökkenti a támadóerőt",
+"MODGOODSINFO_DRIEDFINGERITEM": "Több megszállót vonz be a jelen világba",
 
 "MODGOODSDESC_HOSTINGITEM": "Tárgy a kötetlen online játékhoz.\n\nMegnyitja a világodat a vándorok számára.\n\nA Nagy edény mindig rátermett harcosokat keres, akik rangsorába kerülhetnek. A szimbólumának felfedésével a küldetésedhez feltörekvő harcosok csatlakoznak, az ítéletükre várva.",
 "MODGOODSDESC_JOININGITEM": "Tárgy a kötetlen online játékhoz.\n\nCsatlakozz egy másik világhoz vándorként.\n\nSzámtalan harcos tekintett Maleniara, mint a legnagyobb erő szimbólumára. A képmása, amiben a skarlát rothadás maradványa található, bevonzza azokat, akik erős harcosokat keresnek.",
@@ -36,6 +38,7 @@
 "MODGOODSDESC_ROTITEM03": "Egy bukott Szennyezett esszenciája, akit elfeledett a kegy. A rothadás esszenciája folyamatosan emlékeztet a törékeny halandóságra, átkot szórva hordozójára.\n\nA rothadás lesz úrrá a hajadonoddal való kapcsolatodon. Melina erőtlennek tűnik; áldásai és ajándékai még messzebbnek.\n\nA Kegyhelyek minden rothadástól megnyugvást adnak.",
 "MODGOODSDESC_ROTITEM04": "Egy bukott Szennyezett esszenciája, akit elfeledett a kegy. A rothadás esszenciája folyamatosan emlékeztet a törékeny halandóságra, átkot szórva hordozójára.\n\nLegyengültél. Ami valaha az Erdfa egy hatalmas ága volt, most nem több egy ágacskánál.\n\nA Kegyhelyek minden rothadástól megnyugvást adnak.",
 "MODGOODSDESC_ROTITEM05": "Egy bukott Szennyezett esszenciája, akit elfeledett a kegy. A rothadás esszenciája folyamatosan emlékeztet a törékeny halandóságra, átkot szórva hordozójára.\n\nMinden küzdelem fáradságossá válik. Vajon a világ a jelenléted miatt vált még ellenségesebbé, vagy csupán saját magad elől menekülsz?\n\nA Kegyhelyek minden rothadástól megnyugvást adnak.",
+"MODGOODSDESC_DRIEDFINGERITEM": "Tárgy a kötetlen online játékhoz.\n\nTöbb megszállót vonz be a jelen világba.\n\nEgy megigéző ujj talizmán, ami azok számára csábító, aki gyűjtögeti őket. Elég egyszerűen megvillantani és máris előjönnek azok, akik ujjakra vágynak.",
 
 "OPTIONSELECT_OPENWORLD": "Nyisd meg a világot a vándorok számára",
 "OPTIONSELECT_JOINWORLD": "Csatlakozz egy világhoz vándorként",
@@ -49,12 +52,27 @@
 "OPTIONSELECT_TOGGLEPVP": "PvP váltása",
 "OPTIONSELECT_TOGGLEPVPTEAMS": "PvP csapatok váltása",
 "OPTIONSELECT_TOGGLEFRIENDLYFIRE": "Baráti sebzés váltása",
+"OPTIONSELECT_TOGGLEDRIEDFINGER": "Nyisd meg a világot több megszálló számára",
 "OPTIONSELECT_GIVEEMBER": "Áldozz fel {} rúnát egy rúna ívért",
+"OPTIONSELECT_EASYENEMYRUSH": "Könnyű",
+"OPTIONSELECT_MEDENEMYRUSH": "Közepes",
+"OPTIONSELECT_HARDENEMYRUSH": "Nehéz",
+"OPTIONSELECT_INFENEMYRUSH": "Lehetetlen",
+"OPTIONSELECT_BOSSRUSH": "FŐELLENSÉG",
+"OPTIONSELECT_BOSSRUSHDLC": "FŐELLENSÉG (DLC)",
+"OPTIONSELECT_BOSSRUSHBASEDLC": "FŐELLENSÉG (MINDEN)",
+"OPTIONSELECT_STARTEVILSESSION": "Gonosz játszma indítása",
+"OPTIONSELECT_SEEKEVILSESSION": "Gonosz játszmához csatlakozás",
+"OPTIONSELECT_VIEWEVILSESSION": "Gonosz játszma megtekintése",
+"OPTIONSELECT_LEAVEEVILSESSION": "Gonosz játszma elhagyása",
 
 "FE_PLAYERDEATH": "HALÁL",
 "FE_BLOCKCLEAR": "ELLENFÉL LEGYŐZVE",
 "FE_PKMISSIONSUCCESS": "GYŐZELEM MEGSZEREZVE",
 "FE_PKPLAYERBANISHED": "MEGSZÁLLÓ LEGYŐZVE",
+"FE_BRARENASTART": "KEZDÉS",
+"FE_BRARENALOSE": "VERESÉG",
+"FE_BRARENAWIN": "GYŐZELEM",
 
 "YKNX2_DISPLAYPASSWORD": "Játszma jelszó\n{}",
 "YKNX2_HOSTINGFAILED": "Nem sikerült elkezdeni a játszmát:\n{}",
@@ -88,6 +106,13 @@
 "YKNX2_INVASIONRAPIDREENTRYINFO": "A kitűző reszketni kezdett...",
 
 "ACTIONBUTTON_BOSSROOMKICKOUT": "A kegy ereje kitaszított téged az arénából",
+	
+"YKBR2_INFORMBATTLESTART": "Érzed, hogy egy rejtélyes melegség vesz körbe téged",	
+"YKBR2_INFORMBATTLEWAVE": "{}. számú harci kör közeledik...",
+"YKBR2_INFORMBATTLEEND": "Kezdesz magadhoz térni...",
+"YKBR2_NOFUNCTION": "Előbb meg kell nyitnod a világodat",
+"YKBR2_NOPERMISSION": "Kizárólag a világ mestere használhatja",
+"YKBR2_NOACCESS": "Placidusax Sárkánylord elutasítja a belépésedet",
 
 "CREDITS": "The_Reaper_CooL - https://trc-playground.hu"
 }

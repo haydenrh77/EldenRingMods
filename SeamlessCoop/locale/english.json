@@ -1,5 +1,6 @@
 {
 	"GENERIC_INVALID": "Nothing interesting happens",
+	"UPDATE_RECOMMENDED": "Your version of seamless co-op ({}) is outdated. Please update the mod for the latest features and bug-fixes!",
 
 	"MODGOODSNAME_HOSTINGITEM": "Tiny Great Pot",
 	"MODGOODSNAME_JOININGITEM": "Effigy of Malenia",
@@ -12,6 +13,7 @@
 	"MODGOODSNAME_ROTITEM03": "Rot Essence: Decay",
 	"MODGOODSNAME_ROTITEM04": "Rot Essence: Vulnerability",
 	"MODGOODSNAME_ROTITEM05": "Rot Essence: Despair",
+	"MODGOODSNAME_DRIEDFINGERITEM": "Dried Fingers",
 
 	"MODGOODSINFO_HOSTINGITEM": "Opens your world to wanderers",
 	"MODGOODSINFO_JOININGITEM": "Joins another world as a wanderer",
@@ -24,6 +26,7 @@
 	"MODGOODSINFO_ROTITEM03": "Reduces rune acquisition and item discovery",
 	"MODGOODSINFO_ROTITEM04": "Reduces defence",
 	"MODGOODSINFO_ROTITEM05": "Reduces attack",
+	"MODGOODSINFO_DRIEDFINGERITEM": "Attracts more invaders to current world",
 
 	"MODGOODSDESC_HOSTINGITEM": "Item for seamless online play.\n\nOpens your world to wanderers.\n\nThe Great Pot is always seeking capable warriors to add to its rank. By revealing its symbol, aspiring warriors will join you on your quest, awaiting their judgement.",
 	"MODGOODSDESC_JOININGITEM": "Item for seamless online play.\n\nJoins a world as a wanderer.\n\nMany warriors have looked up to Malenia as the symbol of ultimate strength. Her effigy, containing a remnant of her scarlet rot, will be drawn to those who seek powerful warriors.",
@@ -36,7 +39,8 @@
 	"MODGOODSDESC_ROTITEM03": "The essence of a fallen Tarnished, forgotten by grace. Carrying rot essence upon one's person is a constant reminder of their fragile mortality, and inflicts a curse upon the holder.\n\nRot takes ahold of your connection to your maiden. Melina seems fainter; her boons and gifts farther.\n\nSites of Grace provide respite from all forms of rot.",
 	"MODGOODSDESC_ROTITEM04": "The essence of a fallen Tarnished, forgotten by grace. Carrying rot essence upon one's person is a constant reminder of their fragile mortality, and inflicts a curse upon the holder.\n\nYou are enfeebled. What was a mighty branch of the Erdtree is now nothing but a twig. \n\nSites of Grace provide respite from all forms of rot.",
 	"MODGOODSDESC_ROTITEM05": "The essence of a fallen Tarnished, forgotten by grace. Carrying rot essence upon one's person is a constant reminder of their fragile mortality, and inflicts a curse upon the holder.\n\nEvery struggle becomes arduous. Did the world become more hostile to your presence, or did you shun yourself?\n\nSites of Grace provide respite from all forms of rot.",
-
+	"MODGOODSDESC_DRIEDFINGERITEM": "Item for seamless online play.\n\nAttracts more invaders to current world.\n\nAn enticing finger pendant, attractive to those who wish to collect them. Simply flashing it will call forth all those who wish to reap fingers.",
+	
 	"OPTIONSELECT_OPENWORLD": "Open world to wanderers",
 	"OPTIONSELECT_JOINWORLD": "Join world as a wanderer",
 	"OPTIONSELECT_BREAKINWORLD": "Invade world as a wanderer",
@@ -49,12 +53,27 @@
 	"OPTIONSELECT_TOGGLEPVP": "Toggle PvP",
 	"OPTIONSELECT_TOGGLEPVPTEAMS": "Toggle PvP teams",
 	"OPTIONSELECT_TOGGLEFRIENDLYFIRE": "Toggle friendly fire",
+	"OPTIONSELECT_TOGGLEDRIEDFINGER": "Open world to more invaders",
 	"OPTIONSELECT_GIVEEMBER": "Sacrifice {} runes for a rune arc",
+	"OPTIONSELECT_EASYENEMYRUSH": "Easy",
+	"OPTIONSELECT_MEDENEMYRUSH": "Medium",
+	"OPTIONSELECT_HARDENEMYRUSH": "Hard",
+	"OPTIONSELECT_INFENEMYRUSH": "Impossible",
+	"OPTIONSELECT_BOSSRUSH": "BOSS",
+	"OPTIONSELECT_BOSSRUSHDLC": "BOSS (DLC)",
+	"OPTIONSELECT_BOSSRUSHBASEDLC": "BOSS (ALL)",
+	"OPTIONSELECT_STARTEVILSESSION": "Start evil session",
+	"OPTIONSELECT_SEEKEVILSESSION": "Join evil session",
+	"OPTIONSELECT_VIEWEVILSESSION": "View evil session",
+	"OPTIONSELECT_LEAVEEVILSESSION": "Leave evil session",
 
 	"FE_PLAYERDEATH": "DEATH",
 	"FE_BLOCKCLEAR": "ENEMY FELLED",
 	"FE_PKMISSIONSUCCESS": "VICTORY ACHIEVED",
 	"FE_PKPLAYERBANISHED": "INVADER VANQUISHED",
+	"FE_BRARENASTART": "START",
+	"FE_BRARENALOSE": "FAILURE",
+	"FE_BRARENAWIN": "VICTORY",
 
 	"YKNX2_DISPLAYPASSWORD": "Session password\n{}",
 	"YKNX2_HOSTINGFAILED": "Failed to begin session:\n{}",
@@ -88,6 +107,13 @@
 	"YKNX2_INVASIONRAPIDREENTRYINFO": "The lynchpin begins to quiver...",
 
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "The power of grace expelled you from the arena",
+	
+	"YKBR2_INFORMBATTLESTART": "You feel a mysterious warmth wash over you",	
+	"YKBR2_INFORMBATTLEWAVE": "Battle wave {} is approaching...",
+	"YKBR2_INFORMBATTLEEND": "You begin to awake...",
+	"YKBR2_NOFUNCTION": "You must first open your world",
+	"YKBR2_NOPERMISSION": "Only the world's master can interact with it",
+	"YKBR2_NOACCESS": "Dragonlord Placidusax denies your entry",
 
 	"CREDITS": "LukeYui"
 }

@@ -12,6 +12,7 @@
 	"MODGOODSNAME_ROTITEM03": "Essência da Podridão: Declínio",
 	"MODGOODSNAME_ROTITEM04": "Essência da Podridão: Vulnerabilidade",
 	"MODGOODSNAME_ROTITEM05": "Essência da Podridão: Desespero",
+	"MODGOODSNAME_DRIEDFINGERITEM": "Dedos Ressecados",
 
 	"MODGOODSINFO_HOSTINGITEM": "Abre seu mundo para viajantes",
 	"MODGOODSINFO_JOININGITEM": "Juntar-se a um mundo como viajante",
@@ -24,6 +25,7 @@
 	"MODGOODSINFO_ROTITEM03": "Reduz a aquisição de runas e o descoberta de itens",
 	"MODGOODSINFO_ROTITEM04": "Reduz a defesa",
 	"MODGOODSINFO_ROTITEM05": "Reduz o ataque",
+	"MODGOODSINFO_DRIEDFINGERITEM": "Atrai mais invasoroes para o mundo atual",
 
 	"MODGOODSDESC_HOSTINGITEM": "Item para jogar o Seamless Online.\n\nAbre seu mundo para viajantes .\n\nO Pequenino Grande Pote está sempre procurando por guerreiros capazes para adicionar ao ranque dele. Ao revelar seu símbolo, guerreiros aspirantes irão se juntar a sua busca, esperando pelo julgamento deles.",
 	"MODGOODSDESC_JOININGITEM": "Item para jogar o Seamless Online.\n\nJunte-se a um mundo como viajante.\n\nMuitos guerreiros veem a Malenia como um símbolo de força suprema. Sua Efígie, contendo os resquícios da podridão escarlate dela, será sacada por aqueles que buscam poderosos guerreiros.",
@@ -36,6 +38,7 @@
 	"MODGOODSDESC_ROTITEM03": "A essência do maculado caído, esquecido pela graça. O carregar da essência da podridão por uma pessoa é um constante lembrete de sua frágil mortalidade, infligindo uma maldição ao portador.\n\nA podridão toma conta de sua conexão com sua donzela. Melina parece mais desaparecer; Seus benefícios e presentes estão mais distantes.\n\nLocais de Graça provém alívio de todas as formas de podridão.",
 	"MODGOODSDESC_ROTITEM04": "A essência do maculado caído, esquecido pela graça. O carregar da essência da podridão por uma pessoa é um constante lembrete de sua frágil mortalidade, infligindo uma maldição ao portador.\n\nVocê está enfraquecido. O que antes era um forte tronco da Térvore, agora não é nada além de um galho.\n\nLocais de Graça provém alívio de todas as formas de podridão.",
 	"MODGOODSDESC_ROTITEM05": "A essência do maculado caído, esquecido pela graça. O carregar da essência da podridão por uma pessoa é um constante lembrete de sua frágil mortalidade, infligindo uma maldição ao portador.\n\n Todo esforço se torna árduo. O mundo se tornou mais hostil à sua presença ou você está fora de si?\n\nLocais de Graça provém alívio de todas as formas de podridão.",
+	"MODGOODSDESC_DRIEDFINGERITEM": "Item usado para joga o Seamless Online.\n\nAtrai mais invasores para o mundo atual.\n\nAn Um pingente de dedo sedutor, atraente aqueles que desejam coletá-los. O simples piscar dele chamará todos aqueles que desejam colher dedos.",
 
 	"OPTIONSELECT_OPENWORLD": "Abre o mundo para viajantes",
 	"OPTIONSELECT_JOINWORLD": "Junte-se a um mundo como viajante",
@@ -49,12 +52,27 @@
 	"OPTIONSELECT_TOGGLEPVP": "Alterna o PvP",
 	"OPTIONSELECT_TOGGLEPVPTEAMS": "Alterna o time do PvP",
 	"OPTIONSELECT_TOGGLEFRIENDLYFIRE": "Alterna o fogo amigo",
+	"OPTIONSELECT_TOGGLEDRIEDFINGER": "Open world to more invaders",
 	"OPTIONSELECT_GIVEEMBER": "Sacrifica {} runas por um arco de runas",
+	"OPTIONSELECT_EASYENEMYRUSH": "Fácil",
+	"OPTIONSELECT_MEDENEMYRUSH": "Médio",
+	"OPTIONSELECT_HARDENEMYRUSH": "Difícil",
+	"OPTIONSELECT_INFENEMYRUSH": "Impossível",
+	"OPTIONSELECT_BOSSRUSH": "CHEFE",
+	"OPTIONSELECT_BOSSRUSHDLC": "CHEFE (DLC)",
+	"OPTIONSELECT_BOSSRUSHBASEDLC": "CHEFE (ALL)",
+	"OPTIONSELECT_STARTEVILSESSION": "Start evil session",
+	"OPTIONSELECT_SEEKEVILSESSION": "Join evil session",
+	"OPTIONSELECT_VIEWEVILSESSION": "View evil session",
+	"OPTIONSELECT_LEAVEEVILSESSION": "Leave evil session",
 
 	"FE_PLAYERDEATH": "VOCÊ MORREU",
 	"FE_BLOCKCLEAR": "INIMIGO CAÍDO",
 	"FE_PKMISSIONSUCCESS": "VITÓRIA CONQUISTADA",
 	"FE_PKPLAYERBANISHED": "INVASOR BANIDO",
+	"FE_BRARENASTART": "COMEÇAR",
+	"FE_BRARENALOSE": "FALHA",
+	"FE_BRARENAWIN": "VITÓRIA",
 
 	"YKNX2_DISPLAYPASSWORD": "Senha da sessão\n{}",
 	"YKNX2_HOSTINGFAILED": "Falhou em começar a sessão:\n{}",
@@ -88,6 +106,13 @@
 	"YKNX2_INVASIONRAPIDREENTRYINFO": "A linchagulha começa a tremer...",
 
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "O poder da graça expulsou você da arena",
+	
+	"YKBR2_INFORMBATTLESTART": "Você sente um calor misterioso tomando conta de ti",	
+	"YKBR2_INFORMBATTLEWAVE": "Onda de batalha {} está se aproximando...",
+	"YKBR2_INFORMBATTLEEND": "Você começa a acordar...",
+	"YKBR2_NOFUNCTION": "You must first open your world",
+	"YKBR2_NOPERMISSION": "Only the world's master can interact with it",
+	"YKBR2_NOACCESS": "Dragonlord Placidusax denies your entry",
 
 	"CREDITS": "Leonardo Machado, ThreyKiller"
 }

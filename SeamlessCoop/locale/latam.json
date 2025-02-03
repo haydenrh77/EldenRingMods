@@ -12,6 +12,7 @@
 	"MODGOODSNAME_ROTITEM03": "Esencia de Podredumbre: Decadencia",
 	"MODGOODSNAME_ROTITEM04": "Esencia de Podredumbre: Vulnerabilidad",
 	"MODGOODSNAME_ROTITEM05": "Esencia de Podredumbre: Desesperación",
+	"MODGOODSNAME_DRIEDFINGERITEM": "Dedos resecos",
 
 	"MODGOODSINFO_HOSTINGITEM": "Abre tu mundo a los errantes",
 	"MODGOODSINFO_JOININGITEM": "Únete a otro mundo como errante",
@@ -24,6 +25,7 @@
 	"MODGOODSINFO_ROTITEM03": "Reduce la adquisición de runas y descubrimiento de objetos",
 	"MODGOODSINFO_ROTITEM04": "Reduce la defensa",
 	"MODGOODSINFO_ROTITEM05": "Reduce el ataque",
+	"MODGOODSINFO_DRIEDFINGERITEM": "Atrae más invasores al mundo actual.",
 
 	"MODGOODSDESC_HOSTINGITEM": "Objeto para juego en línea de Seamless.\n\nAbre tu mundo a los errantes.\n\nEl Gran Tarro siempre está buscando guerreros capaces para unirse. Al revelar tu símbolo, los aspirantes a guerreros se unirán a ti en tu travesía, esperando su juicio.",
 	"MODGOODSDESC_JOININGITEM": "Objeto para jugar en línea de Seamless.\n\nEntra en un mundo como errante.\n\nMuchos guerreros han admirado a Malenia como el símbolo de la máxima fuerza. Su efigie, que contiene restos de su podredumbre escarlata, será atraída por aquellos que buscan guerreros poderosos.",
@@ -36,6 +38,7 @@
 	"MODGOODSDESC_ROTITEM03": "La esencia de un sinluz caído, olvidado por la gracia.\n\nLlevar la esencia de la podredumbre sobre uno mismo es un recordatorio constante de la frágil mortalidad e inflige una maldición sobre el poseedor.\n\nLa podredumbre se apodera de la conexión con tu doncella, Melina parece borrosa, su favor y don se alejan. Los Sitios de Gracia brindan un respiro de todas las formas de podredumbre.",
 	"MODGOODSDESC_ROTITEM04": "La esencia de un sinluz caído, olvidado por la gracia.\n\nLlevar la esencia de la podredumbre sobre uno mismo es un recordatorio constante de la frágil mortalidad e inflige una maldición sobre el poseedor.\n\nEstás debilitado. Lo que era antes una poderosa rama del árbol áureo ahora no es más que una ramita. Los Sitios de Gracia brindan un respiro de todas las formas de podredumbre.",
 	"MODGOODSDESC_ROTITEM05": "La esencia de un sinluz caído, olvidado por la gracia.\n\nLlevar la esencia de la podredumbre sobre uno mismo es un recordatorio constante de la frágil mortalidad e inflige una maldición sobre el poseedor.\n\nToda lucha se vuelve ardua. ¿Se volvió el mundo más hostil a tu presencia, o te rehúyes a ti mismo? Los Sitios de Gracia brindan un respiro de todas las formas de podredumbre.",
+	"MODGOODSDESC_DRIEDFINGERITEM": "Objeto para juego en línea de seamless.\n\nAtrae más invasores al mundo.\n\n Un tentador pendiente de dedo, atractivo para aquellos que desean coleccionarlo. El mostrarlo llamará a todos aquellos que desean collecionar dedos.",
 
 	"OPTIONSELECT_OPENWORLD": "¿Abrir mundo a los errantes?",
 	"OPTIONSELECT_JOINWORLD": "¿Unirse a un mundo como errante?",
@@ -49,12 +52,27 @@
 	"OPTIONSELECT_TOGGLEPVP": "Alternar PvP",
 	"OPTIONSELECT_TOGGLEPVPTEAMS": "Alternar equipos de PvP",
 	"OPTIONSELECT_TOGGLEFRIENDLYFIRE": "Alternar daño aliado",
+	"OPTIONSELECT_TOGGLEDRIEDFINGER": "¿Abrir mundo a más invasores?",
 	"OPTIONSELECT_GIVEEMBER": "¿Sacrificar {} runas por un arco rúnico?",
+	"OPTIONSELECT_EASYENEMYRUSH": "Fácil",
+	"OPTIONSELECT_MEDENEMYRUSH": "Intermedio",
+	"OPTIONSELECT_HARDENEMYRUSH": "Difícil",
+	"OPTIONSELECT_INFENEMYRUSH": "Imposible",
+	"OPTIONSELECT_BOSSRUSH": "JEJE",
+	"OPTIONSELECT_BOSSRUSHDLC": "JEJE (DLC)",
+	"OPTIONSELECT_BOSSRUSHBASEDLC": "JEJE (ALL)",
+	"OPTIONSELECT_STARTEVILSESSION": "Start evil session",
+	"OPTIONSELECT_SEEKEVILSESSION": "Join evil session",
+	"OPTIONSELECT_VIEWEVILSESSION": "View evil session",
+	"OPTIONSELECT_LEAVEEVILSESSION": "Leave evil session",
 
 	"FE_PLAYERDEATH": "HAS MUERTO",
 	"FE_BLOCKCLEAR": "ENEMIGO ABATIDO",
 	"FE_PKMISSIONSUCCESS": "VICTORIA CONSEGUIDA",
 	"FE_PKPLAYERBANISHED": "INVASOR DERROTADO",
+	"FE_BRARENASTART": "COMIENZO",
+	"FE_BRARENALOSE": "DERROTA",
+	"FE_BRARENAWIN": "VICTORIA",
 
 	"YKNX2_DISPLAYPASSWORD": "Contraseña de la sesión\n{}",
 	"YKNX2_HOSTINGFAILED": "Fracaso al comenzar la sesión:\n{}",
@@ -88,6 +106,13 @@
 	"YKNX2_INVASIONRAPIDREENTRYINFO": "El pin empieza a temblar...",
 
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "El poder de la gracia te expulsó de la arena.",
+	
+	"YKBR2_INFORMBATTLESTART": "Seintes un calor misterioso invadir tu ser",	
+	"YKBR2_INFORMBATTLEWAVE": "La ola de pelea {} se acerca...",
+	"YKBR2_INFORMBATTLEEND": "Comienzas a despertar...",
+	"YKBR2_NOFUNCTION": "You must first open your world",
+	"YKBR2_NOPERMISSION": "Only the world's master can interact with it",
+	"YKBR2_NOACCESS": "Dragonlord Placidusax denies your entry",
 
 	"CREDITS": "LukeYui, Algxen, Umi, Salafis & Cody"
 }

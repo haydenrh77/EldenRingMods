@@ -12,6 +12,7 @@
 	"MODGOODSNAME_ROTITEM03": "เศษความเสือมสลาย: ความเน่าเปอย",
 	"MODGOODSNAME_ROTITEM04": "เศษความเสือมสลาย: ความอ่อนแอ",
 	"MODGOODSNAME_ROTITEM05": "เศษความเสือมสลาย: ความโศกเศร้า",
+	"MODGOODSNAME_DRIEDFINGERITEM": "Dried Fingers",
 
 	"MODGOODSINFO_HOSTINGITEM": "เปดโลกของคุณให้แก่ผู้เร่ร่อน",
 	"MODGOODSINFO_JOININGITEM": "เข้าร่วมโลกอืนในฐานะผู้เร่ร่อน",
@@ -24,6 +25,7 @@
 	"MODGOODSINFO_ROTITEM03": "ลดจำนวนรูนทีได้รับ และพลังค้นหา",
 	"MODGOODSINFO_ROTITEM04": "ลดพลังการปองกัน",
 	"MODGOODSINFO_ROTITEM05": "ลดพลังการโจมตี",
+	"MODGOODSINFO_DRIEDFINGERITEM": "Attracts more invaders to current world",
 
 	"MODGOODSDESC_HOSTINGITEM": "ไอเทมสำหรับการเล่นร่วมกับผู้อืนอย่างไร้รอยต่อ\n\nเปดโลกของท่านให้แก่ผู้เร่ร่อน\n\nไหอันยิงใหญ่นันคอยแสวงหานักรบทีมีความสามารถมาเพิมขุมพลังของมัน เมือสัญลักษณ์ของมันถูกสำแดง นักรบทีมีความทะเยอทะยานจะมาร่วมผจญภัยไปกับท่าน",
 	"MODGOODSDESC_JOININGITEM": "ไอเทมเพือเล่นออนไลน์แบบต่อเนือง\n\nเข้าสู่โลกของผู้อืนในฐานะผู้เร่ร่อน\n\nนักรบหลายคนยกย่องมาเลเนียให้เปนสัญลักษณ์แห่งความไร้พ่าย\n\nหุ่นพยนต์ของเธอซึงมีเศษส่วนของความเสือมสลายสีแดงทีหลงเหลืออยู่ จะดึงดูดเหล่าผู้แสวงหานักรบทีทรงพลัง",
@@ -36,6 +38,7 @@
 	"MODGOODSDESC_ROTITEM03": "เศษของผู้มัวหมองทีดับสูญ และถูกลืมโดยพร \n\nการรับไว้ซึงเศษความเสือมสลายคือการยําเตือนตนเกียวกับความบอบบางของชีวิต และเปนการต้องสาปผู้ครอบครอง \n\nความเสือมสลายครอบงำสายสัมพันธ์ของท่านกับหญิงร่างทรงของท่าน เมลิน่าดูจางลง พรและของขวัญของเธอห่างไกลออกไปทุกที สถานแห่งพรสามารถบรรเทาความเสือมสลายได้ทุกรูปแบบ",
 	"MODGOODSDESC_ROTITEM04": "เศษของผู้มัวหมองทีดับสูญ และถูกลืมโดยพร \n\nการรับไว้ซึงเศษความเสือมสลายคือการยําเตือนตนเกียวกับความบอบบางของชีวิต และเปนการต้องสาปผู้ครอบครอง \n\nท่านอ่อนกำลัง สิงทีเคยเปนกิงก้านอันทรงพลังของต้นเอิร์ดจจุบันไม่ต่างอะไรจากกิงไม้? สถานแห่งพรสามารถบรรเทาความเสือมสลายได้ทุกรูปแบบ",
 	"MODGOODSDESC_ROTITEM05": "เศษของผู้มัวหมองทีดับสูญ และถูกลืมโดยพร \n\nการรับไว้ซึงเศษความเสือมสลายคือการยําเตือนตนเกียวกับความบอบบางของชีวิต และเปนการต้องสาปผู้ครอบครอง \n\nการฝานแต่ละครังล้วนเปนเรืองลำบาก โลกรังเกียจท่าน หรือท่านทำตัวเปนอริราชศัตรูต่อโลกใบนีเอง? สถานแห่งพรสามารถบรรเทาความเสือมสลายได้ทุกรูปแบบ",
+	"MODGOODSDESC_DRIEDFINGERITEM": "Item for seamless online play.\n\nAttracts more invaders to current world.\n\nAn enticing finger pendant, attractive to those who wish to collect them. Simply flashing it will call forth all those who wish to reap fingers.",
 
 	"OPTIONSELECT_OPENWORLD": "เปดโลกของคุณให้แก่ผู้เร่ร่อน",
 	"OPTIONSELECT_JOINWORLD": "เข้าร่วมโลกในฐานะผู้เร่ร่อน",
@@ -49,12 +52,27 @@
 	"OPTIONSELECT_TOGGLEPVP": "เปด/ปด PvP",
 	"OPTIONSELECT_TOGGLEPVPTEAMS": "เปด/ปด PvP แบบกลุ่ม",
 	"OPTIONSELECT_TOGGLEFRIENDLYFIRE": "เปด/ปดการโจมตีจากฝายเดียวกัน",
+	"OPTIONSELECT_TOGGLEDRIEDFINGER": "Open world to more invaders",
 	"OPTIONSELECT_GIVEEMBER": "สละรูน {} เพือสร้างโค้งแห่งรูน",
+	"OPTIONSELECT_EASYENEMYRUSH": "Easy",
+	"OPTIONSELECT_MEDENEMYRUSH": "Medium",
+	"OPTIONSELECT_HARDENEMYRUSH": "Hard",
+	"OPTIONSELECT_INFENEMYRUSH": "Impossible",
+	"OPTIONSELECT_BOSSRUSH": "BOSS",
+	"OPTIONSELECT_BOSSRUSHDLC": "BOSS (DLC)",
+	"OPTIONSELECT_BOSSRUSHBASEDLC": "BOSS (ALL)",
+	"OPTIONSELECT_STARTEVILSESSION": "Start evil session",
+	"OPTIONSELECT_SEEKEVILSESSION": "Join evil session",
+	"OPTIONSELECT_VIEWEVILSESSION": "View evil session",
+	"OPTIONSELECT_LEAVEEVILSESSION": "Leave evil session",
 
 	"FE_PLAYERDEATH": "DEATH",
 	"FE_BLOCKCLEAR": "ENEMY FELLED",
 	"FE_PKMISSIONSUCCESS": "VICTORY ACHIEVED",
 	"FE_PKPLAYERBANISHED": "INVADER VANQUISHED",
+	"FE_BRARENASTART": "START",
+	"FE_BRARENALOSE": "FAILURE",
+	"FE_BRARENAWIN": "VICTORY",
 
 	"YKNX2_DISPLAYPASSWORD": "รหัสผ่านของเซสชัน\n{}",
 	"YKNX2_HOSTINGFAILED": "ล้มเหลวในการเริมต้นเซสชัน:\n{}",
@@ -88,6 +106,13 @@
 	"YKNX2_INVASIONRAPIDREENTRYINFO": "หมุดสลักกำลังสันไหว...",
 
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "พลังแห่งพรได้ขับไล่คุณออกจากสนามต่อสู้",
+	
+	"YKBR2_INFORMBATTLESTART": "You feel a mysterious warmth wash over you",	
+	"YKBR2_INFORMBATTLEWAVE": "Battle wave {} is approaching...",
+	"YKBR2_INFORMBATTLEEND": "You begin to awake...",
+	"YKBR2_NOFUNCTION": "You must first open your world",
+	"YKBR2_NOPERMISSION": "Only the world's master can interact with it",
+	"YKBR2_NOACCESS": "Dragonlord Placidusax denies your entry",
 
 	"CREDITS": "LukeYui, BazAKu"
 }

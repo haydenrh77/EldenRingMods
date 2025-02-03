@@ -12,6 +12,7 @@
 	"MODGOODSNAME_ROTITEM03": "부패의 정수: 부식",
 	"MODGOODSNAME_ROTITEM04": "부패의 정수: 취약",
 	"MODGOODSNAME_ROTITEM05": "부패의 정수: 절망",
+	"MODGOODSNAME_DRIEDFINGERITEM": "말라붙은 손가락",
 
 	"MODGOODSINFO_HOSTINGITEM": "방랑자들에게 자신의 세계를 개방한다",
 	"MODGOODSINFO_JOININGITEM": "다른 세계에 참가한다",
@@ -24,6 +25,7 @@
 	"MODGOODSINFO_ROTITEM03": "룬 획득률과 아이템 발견력을 감소한다",
 	"MODGOODSINFO_ROTITEM04": "방어력을 감소한다",
 	"MODGOODSINFO_ROTITEM05": "공격력을 감소한다",
+	"MODGOODSINFO_DRIEDFINGERITEM": "더 많은 침입자를 세계로 끌어들인다",
 
 	"MODGOODSDESC_HOSTINGITEM": "심리스 모드 온라인 플레이 전용 아이템.\n\n방랑자들에게 자신의 세계를 개방한다.\n\n위대한 항아리는 자신의 지위를 높일 수 있는 유능한 전사를 찾고 있다. 이 증표를 통해, 다른 전사들이 당신의 모험에 참가할 것이다.",
 	"MODGOODSDESC_JOININGITEM": "심리스 모드 온라인 플레이 전용 아이템.\n\n다른 세계에 참가한다.\n\n수많은 전사들이 말레니아를 끝없는 힘의 상징으로써 섬겨 왔다. 이에 강한 전사를 찾는 이들은 붉은 부패의 힘의 일부가 담긴 그녀의 조각상을 휴대하였다.",
@@ -36,6 +38,7 @@
 	"MODGOODSDESC_ROTITEM03": "축복에게 잊혀진, 쓰러진 빛바랜 자의 정수.\n\n부패 정수를 지니는 것은 그들의 연약한 죽음을 끊임없이 상기시키고, 그 소유자에게 저주를 가한다.\n\n부패가 무녀와의 연결을 장악했다. 멜리나가 희미해 보이고, 그녀의 호의와 선물은 더 멀어 보인다.\n\n축복에서의 휴식은 모든 부패의 정수를 치료한다.",
 	"MODGOODSDESC_ROTITEM04": "축복에게 잊혀진, 쓰러진 빛바랜 자의 정수.\n\n부패 정수를 지니는 것은 그들의 연약한 죽음을 끊임없이 상기시키고, 그 소유자에게 저주를 가한다.\n\n당신은 약해졌다. 황금나무의 강력한 가지였던 것은 이제 나뭇가지에 불과하다.\n\n축복에서의 휴식은 모든 부패의 정수를 치료한다.",
 	"MODGOODSDESC_ROTITEM05": "축복에게 잊혀진, 쓰러진 빛바랜 자의 정수.\n\n부패 정수를 지니는 것은 그들의 연약한 죽음을 끊임없이 상기시키고, 그 소유자에게 저주를 가한다.\n\n모든 싸움이 힘들어진다. 세계가 나의 존재에 더 적대적이게 되었나? 아니면 자기자신을 피하고 있는가?\n\n축복에서의 휴식은 모든 부패의 정수를 치료한다",
+	"MODGOODSDESC_DRIEDFINGERITEM": "심리스 모드 온라인 플레이 전용 아이템.\n\n더 많은 침입자를 세계로 끌어들인다.\n\n손가락을 모으는 자들을 끌어들이는, 매혹적인 손가락 팬던트. 이를 보이는 것만으로도 손가락을 수확하는 이들을 끌어들일 수 있다.",
 
 	"OPTIONSELECT_OPENWORLD": "방랑자들에게 세계를 개방한다",
 	"OPTIONSELECT_JOINWORLD": "방랑자가 되어 세계에 참가한다",
@@ -49,12 +52,27 @@
 	"OPTIONSELECT_TOGGLEPVP": "PvP 모드를 변경한다",
 	"OPTIONSELECT_TOGGLEPVPTEAMS": "PvP 팀을 변경한다",
 	"OPTIONSELECT_TOGGLEFRIENDLYFIRE": "아군끼리의 공격 설정을 변경한다",
+	"OPTIONSELECT_TOGGLEDRIEDFINGER": "더욱 많은 침입자를 불러들인다",
 	"OPTIONSELECT_GIVEEMBER": "{} 룬을 소모하여 룬의 호 효과를 받으시겠습니까?",
+	"OPTIONSELECT_EASYENEMYRUSH": "쉬움",
+	"OPTIONSELECT_MEDENEMYRUSH": "보통",
+	"OPTIONSELECT_HARDENEMYRUSH": "어려움",
+	"OPTIONSELECT_INFENEMYRUSH": "불가능",
+	"OPTIONSELECT_BOSSRUSH": "보스",
+	"OPTIONSELECT_BOSSRUSHDLC": "보스 (DLC)",
+	"OPTIONSELECT_BOSSRUSHBASEDLC": "보스 (통합)",
+	"OPTIONSELECT_STARTEVILSESSION": "적대 세션 개시",
+	"OPTIONSELECT_SEEKEVILSESSION": "적대 세션 참가",
+	"OPTIONSELECT_VIEWEVILSESSION": "적대 세션 보기",
+	"OPTIONSELECT_LEAVEEVILSESSION": "적대 세션 이탈",
 
 	"FE_PLAYERDEATH": "YOU DIED",
 	"FE_BLOCKCLEAR": "ENEMY FELLED",
 	"FE_PKMISSIONSUCCESS": "VICTORY ACHIEVED",
 	"FE_PKPLAYERBANISHED": "INVADER VANQUISHED",
+	"FE_BRARENASTART": "START",
+	"FE_BRARENALOSE": "FAILURE",
+	"FE_BRARENAWIN": "VICTORY",
 
 	"YKNX2_DISPLAYPASSWORD": "세션의 암호\n{}",
 	"YKNX2_HOSTINGFAILED": "세션 시작 실패:\n{}",
@@ -87,7 +105,14 @@
 	"YKNX2_PLAYERBONFIREWARP": "{}이(가) 워프하였습니다: {}",
 	"YKNX2_INVASIONRAPIDREENTRYINFO": "도전자의 고리가 떨리고 있다",
 
-	"ACTIONBUTTON_BOSSROOMKICKOUT": "은혜의 힘이 당신을 경기장에서 쫓아냈습니다",
+	"ACTIONBUTTON_BOSSROOMKICKOUT": "은혜의 힘에 의해 경기장에서 쫓겨났다",
+	
+	"YKBR2_INFORMBATTLESTART": "신비로운 온기가 감돌고 있다",	
+	"YKBR2_INFORMBATTLEWAVE": "{}번 웨이브 진입 중...",
+	"YKBR2_INFORMBATTLEEND": "깨어나고 있습니다...",
+	"YKBR2_NOFUNCTION": "먼저 세계를 개방하여야 합니다",
+	"YKBR2_NOPERMISSION": "세계의 주인만이 상호작용할 수 있습니다",
+	"YKBR2_NOACCESS": "용왕 플라키두삭스의 힘에 의해 봉인되어 있다",
 
 	"CREDITS": "Jun Hwi Gu, Rox Rapidsta, yasmin.tv, and EKa001"
 }

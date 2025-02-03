@@ -12,6 +12,7 @@
 	"MODGOODSNAME_ROTITEM03": "Essence de putréfaction : Décomposition",
 	"MODGOODSNAME_ROTITEM04": "Essence de putréfaction : Vulnérabilité",
 	"MODGOODSNAME_ROTITEM05": "Essence de putréfaction : Détresse",
+	"MODGOODSNAME_DRIEDFINGERITEM": "Doigts desséchés",
 
 	"MODGOODSINFO_HOSTINGITEM": "Ouvre votre monde aux vagabonds",
 	"MODGOODSINFO_JOININGITEM": "Rejoint un monde en tant que vagabond",
@@ -24,6 +25,7 @@
 	"MODGOODSINFO_ROTITEM03": "Réduit le nombre de runes obtenues et la découverte d'objet",
 	"MODGOODSINFO_ROTITEM04": "Réduit la défense",
 	"MODGOODSINFO_ROTITEM05": "Réduit l'attaque",
+	"MODGOODSINFO_DRIEDFINGERITEM": "Attire plus d'envahisseurs dans le monde actuel",
 
 	"MODGOODSDESC_HOSTINGITEM": "Objet de jeu en ligne.\n\nOuvre votre monde aux vagabonds.\n\nLe Grand Pot est constamment en recherche de guerriers compétents pour étoffer son rang. En révélant son symbole, les aspirants guerriers vous rejoindront dans votre quête et attendront leur jugement.",
 	"MODGOODSDESC_JOININGITEM": "Objet de jeu en ligne.\n\nRejoint un monde en tant que vagabond.\n\nDe nombreux guerriers considèrent Malenia comme symbole de force ultime. Son effigie, contenant un reste de sa putréfaction écarlate, sera attirée par ceux qui recherchent de puissants guerriers.",
@@ -36,6 +38,7 @@
 	"MODGOODSDESC_ROTITEM03": "L'essence d'un Sans-éclat déchu, oublié par la grâce.\n\nPorter l'essence de putréfaction sur soi est un rappel constant de sa fragile mortalité et inflige une malédiction au détenteur.\n\nLa putréfaction s'empare du lien qui vous unit à votre servante. Melina semble plus faible, ses bienfaits et dons plus éloignés. Les Sites de grâce offrent un répit contre toutes les formes de putréfaction.",
 	"MODGOODSDESC_ROTITEM04": "L'essence d'un Sans-éclat déchu, oublié par la grâce.\n\nPorter l'essence de putréfaction sur soi est un rappel constant de sa fragile mortalité et inflige une malédiction au détenteur.\n\nVous êtes affaibli. Ce qui était autrefois une puissante branche de l'Arbre-Monde n'est désormais plus qu'une brindille. Les Sites de grâce offrent un répit contre toutes les formes de putréfaction.",
 	"MODGOODSDESC_ROTITEM05": "L'essence d'un Sans-éclat déchu, oublié par la grâce.\n\nPorter l'essence de putréfaction sur soi est un rappel constant de sa fragile mortalité et inflige une malédiction au détenteur.\n\nChaque lutte devient plus difficile. Est-ce que le monde est devenu plus hostile à votre égard ou bien avez-vous tourné le dos à vous-même ? Les Sites de grâce offrent un répit contre toutes les formes de putréfaction.",
+	"MODGOODSDESC_DRIEDFINGERITEM": "Objet de jeu en ligne.\n\nAttire plus d'envahisseurs dans le monde actuel'.\n\nUn pendentif de doigts, attirant ceux qui souhaitent les collectionner. Il suffit de le faire briller pour appeler tous ceux qui souhaitent récolter des doigts.",
 
 	"OPTIONSELECT_OPENWORLD": "Ouvrir votre monde aux vagabonds",
 	"OPTIONSELECT_JOINWORLD": "Rejoindre un monde en tant que vagabond",
@@ -49,12 +52,27 @@
 	"OPTIONSELECT_TOGGLEPVPTEAMS": "Activer/Désactiver les équipes JcJ",
 	"OPTIONSELECT_TOGGLEFRIENDLYFIRE": "Activer/Désactiver l'attaque alliée",
 	"OPTIONSELECT_GIVEEMBER": "Sacrifier {} runes pour un arc runique",
+	"OPTIONSELECT_TOGGLEDRIEDFINGER": "Ouvrir le monde à plus d'envahisseurs'",
 	"OPTIONSELECT_CALLBREAKINSOS": "Marquer le monde pour d'autres envahisseurs",
+	"OPTIONSELECT_EASYENEMYRUSH": "Facile",
+	"OPTIONSELECT_MEDENEMYRUSH": "Moyen",
+	"OPTIONSELECT_HARDENEMYRUSH": "Difficile",
+	"OPTIONSELECT_INFENEMYRUSH": "Impossible",
+	"OPTIONSELECT_BOSSRUSH": "BOSS",
+	"OPTIONSELECT_BOSSRUSHDLC": "BOSS (DLC)",
+	"OPTIONSELECT_BOSSRUSHBASEDLC": "BOSS (TOUS)",
+	"OPTIONSELECT_STARTEVILSESSION": "Démarrer la session maléfique",
+	"OPTIONSELECT_SEEKEVILSESSION": "Rejoindre la session maléfique",
+	"OPTIONSELECT_VIEWEVILSESSION": "Voir la session maléfique",
+	"OPTIONSELECT_LEAVEEVILSESSION": "Quitter la session maléfique",
 
-    "FE_PKPLAYERBANISHED": "ENVAHISSEUR VAINCU",
+	"FE_PKPLAYERBANISHED": "ENVAHISSEUR VAINCU",
 	"FE_PLAYERDEATH": "DÉFAITE",
 	"FE_BLOCKCLEAR": "ENNEMI ABATTU",
 	"FE_PKMISSIONSUCCESS": "VICTOIRE OBTENUE",
+	"FE_BRARENASTART": "COMMENCEZ",
+	"FE_BRARENALOSE": "DÉFAITE",
+	"FE_BRARENAWIN": "VICTOIRE",
 
 	"YKNX2_DISPLAYPASSWORD": "Mot de passe de session\n{}",
 	"YKNX2_HOSTINGFAILED": "Échec pour initier la session :\n{}",
@@ -70,7 +88,7 @@
 	"YKNX2_INFORMBEGINSPECTATEPLAYER": "Mode spectateur : {}",
 	"YKNX2_GIVEEMBERINSUFFECIENT": "Runes insuffisantes",
 	"YKNX2_GIVEEMBERFAILED": "Vous avez déjà un arc runique actif",
-	
+
 	"YKNX2_PLAYERDIED": "{} a péri",
 	"YKNX2_BREAKINPLAYERDIED": "Le vagabond malveillant {} a péri",
 	"YKNX2_BREAKINPLAYERJOIN": "Le vagabond malveillant {} vous envahit !",
@@ -87,7 +105,14 @@
 	"YKNX2_PLAYERBONFIREWARP": "{} a voyagé vers : {}",
 	"YKNX2_INVASIONRAPIDREENTRYINFO": "La broche commence à frémir...",
 
-	"ACTIONBUTTON_BOSSROOMKICKOUT": "Le pouvoir de la grâce vous a expulsé de l'arène",
+	"ACTIONBUTTON_BOSSROOMKICKOUT": "Le pouvoir de la grâce vous a expulsé de l'arène.",
 
-	"CREDITS": "LukeYui, traduit par Antoine Pélissier"
+	"YKBR2_INFORMBATTLESTART": "Vous sentez une mystérieuse chaleur vous envahir...",
+	"YKBR2_INFORMBATTLEWAVE": "La vague de bataille n°{} approche...",
+	"YKBR2_INFORMBATTLEEND": "Vous commencez à vous réveiller...",
+	"YKBR2_NOFUNCTION": "Vous devez d'abord ouvrir votre monde.",
+	"YKBR2_NOPERMISSION": "Seul le maître des lieux peut intéragir avec ceci.",
+	"YKBR2_NOACCESS": "Le seigneur draconique Placidusax refuse votre entrée.",
+
+	"CREDITS": "LukeYui, traduit par Antoine Pélissier et Simon Catanese"
 }

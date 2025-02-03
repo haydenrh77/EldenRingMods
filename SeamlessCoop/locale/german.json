@@ -12,6 +12,7 @@
 	"MODGOODSNAME_ROTITEM03": "Essenz der Fäule: Verfall",
 	"MODGOODSNAME_ROTITEM04": "Essenz der Fäule: Verwundbarkeit",
 	"MODGOODSNAME_ROTITEM05": "Essenz der Fäule: Verzweiflung",
+	"MODGOODSNAME_DRIEDFINGERITEM": "Dried Fingers",
 
 	"MODGOODSINFO_HOSTINGITEM": "Öffnet deine Welt für Wanderer",
 	"MODGOODSINFO_JOININGITEM": "Trete einer anderen Welt als Wanderer bei",
@@ -24,6 +25,7 @@
 	"MODGOODSINFO_ROTITEM03": "Reduziert den Runenerhalt und die Item Entdeckung",
 	"MODGOODSINFO_ROTITEM04": "Reduziert die Verteidigung",
 	"MODGOODSINFO_ROTITEM05": "Reduziert den Angriff",
+	"MODGOODSINFO_DRIEDFINGERITEM": "Attracts more invaders to current world",
 
 	"MODGOODSDESC_HOSTINGITEM": "Gegenstand für nahtloses Online-Spielen.\n\nÖffnet deine Welt für Wanderer.\n\nDer großartige kleine Topf sucht immer nach fähigen Kämpfern, um sie zu seinem Gefolge hinzuzufügen. Durch die Offenbarung seines Symbols schließen sich aufstrebende Krieger deiner Quest an und warten auf ihr Urteil.",
 	"MODGOODSDESC_JOININGITEM": "Gegenstand für nahtloses Online-Spielen.\n\nTrete einer anderen Welt als Wanderer bei.\n\nVielen Kriegern ist Malenia, als Symbol der absoluten Stärke, ein Vorbild. Ihr Abbild, welches einen Rest ihrer Scharlachfäule enthält, wird von jenen, die nach mächtigen Kriegern suchen angezogen.",
@@ -36,6 +38,7 @@
 	"MODGOODSDESC_ROTITEM03": "Die Essenz eines gefallenen Befleckten, von der Gnade vergessen.\n\nEine Essenz der Fäule bei sich zu tragen, erinnert den Träger jederzeit an dessen fragile Sterblichkeit und verflucht den Träger.\n\nDie Fäulnis beeinflusst die Verbindung zu deiner Jungfer. Melina wirkt schwächer, ihr Segen und ihre Gabe weit entfernt. Orte der Gnade bieten Erholung von allen Formen der Fäulnis.",
 	"MODGOODSDESC_ROTITEM04": "Die Essenz eines gefallenen Befleckten, von der Gnade vergessen.\n\nEine Essenz der Fäule bei sich zu tragen, erinnert den Träger jederzeit an dessen fragile Sterblichkeit und verflucht den Träger.\n\nDu bist geschwächt. Was einst ein mächtiger Ast des Erdenbaum war, ist nun nichts weiter als ein Zweig. Orte der Gnade bieten Erholung von allen Formen der Fäulnis.",
 	"MODGOODSDESC_ROTITEM05": "Die Essenz eines gefallenen Befleckten, von der Gnade vergessen.\n\nEine Essenz der Fäule bei sich zu tragen, erinnert den Träger jederzeit an dessen fragile Sterblichkeit und verflucht den Träger.\n\nJeder Kampf wird mühsamer. Ist die Welt deiner Präsenz gegenüber feindseliger geworden oder meidest du dich selbst? Orte der Gnade bieten Erholung von allen Formen der Fäulnis.",
+	"MODGOODSDESC_DRIEDFINGERITEM": "Item for seamless online play.\n\nAttracts more invaders to current world.\n\nAn enticing finger pendant, attractive to those who wish to collect them. Simply flashing it will call forth all those who wish to reap fingers.",
 
 	"OPTIONSELECT_OPENWORLD": "Öffnet deine Welt für Wanderer",
 	"OPTIONSELECT_JOINWORLD": "Trete einer anderen Welt als Wanderer bei",
@@ -49,12 +52,27 @@
 	"OPTIONSELECT_TOGGLEPVP": "Schalte auf PvP um",
 	"OPTIONSELECT_TOGGLEPVPTEAMS": "Schalte auf PvP Teams um",
 	"OPTIONSELECT_TOGGLEFRIENDLYFIRE": "Schalte auf Teambeschuss um",
+	"OPTIONSELECT_TOGGLEDRIEDFINGER": "Open world to more invaders",
 	"OPTIONSELECT_GIVEEMBER": "Verwende {} Runen für eine Runenkaraffe",
+	"OPTIONSELECT_EASYENEMYRUSH": "Easy",
+	"OPTIONSELECT_MEDENEMYRUSH": "Medium",
+	"OPTIONSELECT_HARDENEMYRUSH": "Hard",
+	"OPTIONSELECT_INFENEMYRUSH": "Impossible",
+	"OPTIONSELECT_BOSSRUSH": "BOSS",
+	"OPTIONSELECT_BOSSRUSHDLC": "BOSS (DLC)",
+	"OPTIONSELECT_BOSSRUSHBASEDLC": "BOSS (ALL)",
+	"OPTIONSELECT_STARTEVILSESSION": "Start evil session",
+	"OPTIONSELECT_SEEKEVILSESSION": "Join evil session",
+	"OPTIONSELECT_VIEWEVILSESSION": "View evil session",
+	"OPTIONSELECT_LEAVEEVILSESSION": "Leave evil session",
 
 	"FE_PLAYERDEATH": "DU BIST GESTORBEN",
 	"FE_BLOCKCLEAR": "GEGNER VERNICHTET",
 	"FE_PKMISSIONSUCCESS": "DU HAST GESIEGT",
 	"FE_PKPLAYERBANISHED": "INVADER VANQUISHED",
+	"FE_BRARENASTART": "START",
+	"FE_BRARENALOSE": "FAILURE",
+	"FE_BRARENAWIN": "VICTORY",
 
 	"YKNX2_DISPLAYPASSWORD": "Sitzungspasswort\n{}",
 	"YKNX2_HOSTINGFAILED": "Die Sitzung konnte nicht gestartet werden:\n{}",
@@ -88,6 +106,12 @@
 	"YKNX2_INVASIONRAPIDREENTRYINFO": "The lynchpin begins to quiver...",
 
 	"ACTIONBUTTON_BOSSROOMKICKOUT": "Die Kraft der Gnade verbannt dich aus der Arena",
+	
+	"YKBR2_INFORMBATTLESTART": "You feel a mysterious warmth wash over you",	
+	"YKBR2_INFORMBATTLEWAVE": "Battle wave {} is approaching...",
+	"YKBR2_INFORMBATTLEEND": "You begin to awake...",
+	"YKBR2_NOFUNCTION": "You must first open your world",
+	"YKBR2_NOPERMISSION": "Only the world's master can interact with it",
 
 	"CREDITS": "LukeYui + Kanpeki + Stinky Sage :3"
 }
